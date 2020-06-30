@@ -11,7 +11,8 @@ Biologist, MSc in Ecology (UFMG-Brazil), PhD candidate in Biology (UdeM)
 </div>
 
 
-## Summary
+Summary
+-------
 
 I am a Ph.D. candidate at UdeM, former trainee in the NSERC-CREATE ÉcoLac program. I am highly interested in aquatic ecology, microbiology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am also engaged in science popularization and education.
 
