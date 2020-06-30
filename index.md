@@ -86,10 +86,11 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 ### Peer-reviewed
+`2020`
+Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, et al. Community rescue in experimental phytoplankton communities facing severe herbicide pollution. Nat Ecol Evol. 4:578–588. [doi: 10.1038/s41559-020-1134-5](doi: 10.1038/s41559-020-1134-5)
 
-Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, et al. (2020). Community rescue in experimental phytoplankton communities facing severe herbicide pollution. Nat Ecol Evol. 4:578–588. [doi: 10.1038/s41559-020-1134-5](doi: 10.1038/s41559-020-1134-5)
-
-Costa, N. B., Kolman, M. A., & Giani, A. (2016). Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
+`2016`
+Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
 
 
 ### Preprint
@@ -116,16 +117,22 @@ What’s a green dot in the lake? It’s phytoplankton! In: ÉcoLac-GRIL worksho
 ## Community engagement and volunteer experience
 `March 2019-now`
 Reviewer of Le beagle (QCBS blog for science communication)
+
 `March 2019-now`
 CSEE (Canadian Society for Ecology and Evolution) student representative
+
 `June 2018`
 Eureka festival (GRIL, Montreal, Canada)
+
 `May 2017 & May 2018`
 24 hours of science (GRIL, Montreal, Canada)
+
 `Fall 2017 & Fall 2018`
 Volunteer at Passarelle (tutoring between new and current students at UdeM)
+
 `July 2015`
 Assistant at “UFMG & Schools – Educating to science” (UFMG, Belo Horizonte, Brazil)
+
 `2010-2012`
 Member of the student group “Evolução em Foco” (UFMG, Belo Horizonte, Brazil)
 
@@ -133,32 +140,35 @@ Member of the student group “Evolução em Foco” (UFMG, Belo Horizonte, Braz
 ### Organizing commitee
 `2018-2019`
 Microbial Ecology Seminar Series, Montreal, Canada
+
 `2018`
 BIOME (BIOinformatics for METabarcoding) workshop, Saint-Hippolyte, Canada
+
 `2017`
 Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
+
 `2010 and 2011`
 Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
 
 ## Professional experience
 `2018-2020`
 __Teaching assistant at University of Montreal (Montreal, Canada)__
-Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
-Main assistant of Environmental Microbiology (BIO2405, Winter 2019 and Winter 2020)
-General assistant of Microbial Ecology (BIO3721, Winter 2020)
-General assistant of Protistology (BIO2150, Fall 2018 and Fall 2019)
+- Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
+- Main assistant of Environmental Microbiology (BIO2405, Winter 2019 and Winter 2020)
+- General assistant of Microbial Ecology (BIO3721, Winter 2020)
+- General assistant of Protistology (BIO2150, Fall 2018 and Fall 2019)
 
 `Aug.2015-Aug.2016`
 __Teaching (Sete Lagoas, Brazil)__	  
-English instructor and tutor of biology, chemistry, physics and mathematics
+- English instructor and tutor of biology, chemistry, physics and mathematics
 
 `July-Aug.2015`
 __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
-Trainee in scientific journalism, six published reports
+- Trainee in scientific journalism, six published reports
 
 `2013-2014`
 __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
-Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
+- Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
 
 <!-- 
 ### Hidden info
