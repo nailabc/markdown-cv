@@ -1,9 +1,9 @@
 ---
-layout: CV
+layout: cv
 title: Naíla Barbosa da Costa
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Naíla Barbosa da Costa
+Biologist, MSc in Ecology, PhD candidate at UdeM
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
