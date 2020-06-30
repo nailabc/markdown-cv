@@ -1,9 +1,10 @@
----
-layout: cv
-title: Naíla Barbosa da Costa
----
-# Naíla Barbosa da Costa
-Biologist, MSc in Ecology (UFMG-Brazil), PhD candidate in Biology (UdeM)
+
+Naíla Barbosa da Costa
+===========
+-------------------    ------------------------------------
+                       naila.barbosa.da.costa@umontreal.ca
+<a href="https://nailacosta.weebly.com/">Personal webpage</a>
+-------------------     ------------------------------------
 
 <div id="webaddress">
 <a href="naila.barbosa.da.costa@umontreal.ca">naila.barbosa.da.costa@umontreal.ca</a>
