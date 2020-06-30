@@ -58,7 +58,7 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 **Ph.D. training scholarship** NSERC-CREATE ÉcoLac - $26,000 CAD
 
 `Dec2016`
-Fonds de bourse Étienne-Magnin - $5,000 CAD
+**Department awards** Fonds de bourse Étienne-Magnin - $5,000 CAD
 
 `Sep2016-Aug2018`
 **International tuition fees exemption** FESP (UdeM-Canada) - $53,000 CAD
@@ -79,7 +79,7 @@ Fonds de bourse Étienne-Magnin - $5,000 CAD
 **Undergraduate Research Scholarship** CEMIG (Brazil) - $3,200 BRL
 
 `2005, 2006 and 2007`
-Excellence in High School studies (CNEC-CEI, Sete Lagoas, Brazil) - $150 BRL
+**Excellence in High School studies** CNEC-CEI (Sete Lagoas, Brazil) - $150 BRL
 
 ## Publications
 
