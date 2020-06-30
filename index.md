@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: CV
+layout: curriculum vitae
+title: Naíla Barbosa da Costa
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
