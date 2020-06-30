@@ -100,9 +100,9 @@ Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al.
 S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impact on lake bacterial communities across Eastern Canada. bioRxiv. 2019;1–21. [doi: 10.1017/CBO9781107415324.004](doi: 10.1017/CBO9781107415324.004)
 
 ## Science outreach
-Portfolio with articles for science popularization: [https://nailabcosta.contently](https://nailabcosta.contently)
-YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
-Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
+- Portfolio with articles for science popularization: [https://nailabcosta.contently](https://nailabcosta.contently)
+- YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
+- Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
 
 
 ## Workshop lecturer
