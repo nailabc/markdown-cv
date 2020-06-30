@@ -107,48 +107,46 @@ S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impac
 
 ## Workshop lecturer
 `2017`
-Costa N.B., Reis P.C.J., Tran P. 
-I’m a microbe! Can’t you see me? In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada.
+**I’m a microbe! Can’t you see me?** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
 
 `2016`
-Costa N.B., Reis P.C.J.
-What’s a green dot in the lake? It’s phytoplankton! In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada.
+**What’s a green dot in the lake? It’s phytoplankton!** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
 
-## Community engagement and volunteer experience
+
+## Community engagement
 `March 2019-now`
-Reviewer of Le beagle (QCBS blog for science communication)
+- Reviewer of Le beagle (QCBS blog for science communication)
+- CSEE (Canadian Society for Ecology and Evolution) student representative
 
-`March 2019-now`
-CSEE (Canadian Society for Ecology and Evolution) student representative
+`July 2019`
+- Mediator of discussion based on the documentary  “Harvest of Empire: The Untold Story of Latinos in America”, as part of the film festival Denial of Empire, at the International Cooperative House (Madison, USA)
 
-`June 2018`
-Eureka festival (GRIL, Montreal, Canada)
-
-`May 2017 & May 2018`
-24 hours of science (GRIL, Montreal, Canada)
+`2017-2018`
+- Participation as a GRIL member of the Eureka festival (Montreal, June 2018)
+- 24 hours of science (Montreal, May 2017 and 2018)
 
 `Fall 2017 & Fall 2018`
-Volunteer at Passarelle (tutoring between new and current students at UdeM)
+- Volunteer at Passarelle (tutoring between new and current students at UdeM)
 
 `July 2015`
-Assistant at “UFMG & Schools – Educating to science” (UFMG, Belo Horizonte, Brazil)
+- Assistant at “UFMG & Schools – Educating to science” (UFMG, Belo Horizonte, Brazil)
 
 `2010-2012`
-Member of the student group “Evolução em Foco” (UFMG, Belo Horizonte, Brazil)
+- Member of the student group “Evolução em Foco” (UFMG, Belo Horizonte, Brazil)
 
 
 ### Organizing commitee
 `2018-2019`
-Microbial Ecology Seminar Series, Montreal, Canada
+- Microbial Ecology Seminar Series, Montreal, Canada
 
 `2018`
-BIOME (BIOinformatics for METabarcoding) workshop, Saint-Hippolyte, Canada
+- BIOME (BIOinformatics for METabarcoding) workshop, Saint-Hippolyte, Canada
 
 `2017`
-Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
+- Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
 
 `2010 and 2011`
-Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
+- Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
 
 ## Professional experience
 `2018-2020`
