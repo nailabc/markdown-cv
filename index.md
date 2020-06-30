@@ -16,8 +16,8 @@ Summary
 
 I am a Ph.D. candidate at UdeM, former trainee in the NSERC-CREATE ÉcoLac program. I am highly interested in aquatic ecology, microbiology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am also engaged in science popularization and education.
 
-### Key skills
-
+Key skills
+-------
 * Bioinformatics applied to microbiome metagenomics and amplicon sequencing
 *	Data analysis applied to microbial ecology
 *	General limnologic field techniques, phytoplankton and cyanobacteria identification
@@ -26,9 +26,8 @@ I am a Ph.D. candidate at UdeM, former trainee in the NSERC-CREATE ÉcoLac progr
 *	Fast learner, creative, responsible and communicative
 * Fluent in English, French and Portuguese
 
-
-## Education
-
+Education
+-------
 `Sep.2016-now`
 __Université de Montréal (UdeM), Canada__
 - Ph.D. student in Biological Sciences - GPA: 4.0/4.3
@@ -47,8 +46,8 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 - Bachelor in Biological Sciences - GPA: 4.78/5.00
 - Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
 
-## Awards and scholarships
-
+Awards and scholarships
+-------
 `June2020`
 **Best Ph.D. poster presentation** GRIL 2020 online symposium - $100 CAD
 
@@ -82,8 +81,8 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 `2005, 2006 and 2007`
 **Excellence in High School studies** CNEC-CEI (Sete Lagoas, Brazil) - $150 BRL
 
-## Publications
-
+Publications
+-------
 A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 ### Peer-reviewed
@@ -100,13 +99,15 @@ Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al.
 
 S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impact on lake bacterial communities across Eastern Canada. bioRxiv. 2019;1–21. [doi: 10.1017/CBO9781107415324.004](doi: 10.1017/CBO9781107415324.004)
 
-## Science outreach
+Science outreach
+-------
 - Portfolio with articles for science popularization: [https://nailabcosta.contently](https://nailabcosta.contently)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
 - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
 
 
-## Workshop lecturer
+Workshop lecturer
+-------
 `2017`
 **I’m a microbe! Can’t you see me?** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
 
@@ -114,7 +115,7 @@ S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impac
 **What’s a green dot in the lake? It’s phytoplankton!** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
 
 
-## Community engagement
+# Community engagement
 `March 2019-now`
 - Reviewer of Le beagle (QCBS blog for science communication)
 - CSEE (Canadian Society for Ecology and Evolution) student representative
