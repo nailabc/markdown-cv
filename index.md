@@ -169,6 +169,7 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 
 <!-- 
 ### Hidden info
+Check this template: https://mszep.github.io/pandoc_resume/
 -->
 
 
