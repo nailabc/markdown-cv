@@ -4,6 +4,11 @@ Naíla Barbosa da Costa
 [Personal website](https://nailacosta.weebly.com/)
 naila.barbosa.da.costa@umontreal.ca
 
+<div id="webaddress">
+<a href="naila.barbosa.da.costa@umontreal.ca">naila.barbosa.da.costa@umontreal.ca</a>
+| <a href="https://nailacosta.weebly.com/">Personal webpage</a>
+</div>
+
 Summary
 -------
 
@@ -22,9 +27,9 @@ Key skills
 Education
 -------
 `Sep.2016-now`
-__Université de Montréal (UdeM), Canada__
-- Ph.D. student in Biological Sciences - GPA: 4.0/4.3
-- Short academic internship at University of Wisconsin at Madison, USA
+:   __Université de Montréal (UdeM), Canada__
+   - Ph.D. student in Biological Sciences - GPA: 4.0/4.3
+   - Short academic internship at University of Wisconsin at Madison, USA
 
 `Fall 2016 - Summer 2019`
 __Groupe de Recherche Interuniversitaire en Limnologie (GRIL)__
