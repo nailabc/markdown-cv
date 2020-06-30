@@ -1,9 +1,8 @@
 
 Naíla Barbosa da Costa
 ===========
--------------------------------    -------------------------------------
-https://nailacosta.weebly.com/      naila.barbosa.da.costa@umontreal.ca
--------------------------------    -------------------------------------
+[Personal website](https://nailacosta.weebly.com/)
+naila.barbosa.da.costa@umontreal.ca
 
 Summary
 -------
