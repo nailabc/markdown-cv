@@ -25,16 +25,14 @@ Key skills
 Education
 -------
 
-Sep.2016-now
-:   **University of Montreal (UdeM), Canada**
+`Sep.2016-now`
+__University of Montreal (UdeM), Canada__
+- Ph.D. student in Biological Sciences - GPA: 4.0/4.3
+- Short academic internship at University of Wisconsin at Madison, USA   
 
-   Ph.D. student in Biological Sciences - GPA: 4.0/4.3
-   Short academic internship at University of Wisconsin at Madison, USA
-   
-
-Fall 2016 - Summer 2019
-:  __Groupe de Recherche Interuniversitaire en Limnologie (GRIL)__
-   - NSERC's CREATE trainee in lake and fluvial ecology (ÉcoLac)
+`Fall 2016 - Summer 2019`
+__Groupe de Recherche Interuniversitaire en Limnologie (GRIL)__
+- NSERC's CREATE trainee in lake and fluvial ecology (ÉcoLac)
 
 `2013-2015`
 __Federal University of Minas Gerais (UFMG), Brazil__
