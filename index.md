@@ -115,7 +115,8 @@ Workshop lecturer
 **What’s a green dot in the lake? It’s phytoplankton!** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
 
 
-# Community engagement
+Community engagement
+-------
 `March 2019-now`
 - Reviewer of Le beagle (QCBS blog for science communication)
 - CSEE (Canadian Society for Ecology and Evolution) student representative
@@ -137,7 +138,8 @@ Workshop lecturer
 - Member of the student group “Evolução em Foco” (UFMG, Belo Horizonte, Brazil)
 
 
-### Organizing commitee
+Organizing commitee
+-------
 `2018-2019`
 - Microbial Ecology Seminar Series, Montreal, Canada
 
@@ -150,7 +152,8 @@ Workshop lecturer
 `2010 and 2011`
 - Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
 
-## Professional experience
+Professional experience
+-------
 `2018-2020`
 __Teaching assistant at University of Montreal (Montreal, Canada)__
 - Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
