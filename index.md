@@ -1,5 +1,5 @@
 ---
-layout: curriculum vitae
+layout: CV
 title: Naíla Barbosa da Costa
 ---
 # Isaac Newton
