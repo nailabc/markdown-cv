@@ -3,44 +3,49 @@ layout: cv
 title: Naíla Barbosa da Costa
 ---
 # Naíla Barbosa da Costa
-Biologist, MSc in Ecology, PhD candidate at UdeM
+Biologist, MSc in Ecology (UFMG-Brazil), PhD candidate in Biology (UdeM)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="naila.barbosa.da.costa@umontreal.ca">naila.barbosa.da.costa@umontreal.ca</a>
+| <a href="https://nailacosta.weebly.com/">Personal webpage</a>
 </div>
 
 
-## Currently
+### Summary
 
-Standing on the shoulders of giants
+I am a Ph.D. candidate at UdeM, former trainee in the NSERC-CREATE ÉcoLac program. I am highly interested in aquatic ecology, microbiology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am also engaged in science popularization and education.
 
-### Specialized in
+### Key skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* Bioinformatics applied to microbiome metagenomics and amplicon sequencing
+*	Data analysis applied to microbial ecology
+*	General limnologic field techniques, phytoplankton and cyanobacteria identification
+*	Molecular biology (DNA fingerprinting, PCR and qPCR, Illumina Miseq sequencing) 
+*	Experience in teaching and science popularization (written and oral communication)
+*	Fast learner, creative, responsible and communicative
+* Fluent in English, French and Portuguese
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep.2016-now`
+__Université de Montréal (UdeM), Canada__
+- Ph.D. student in Biological Sciences - GPA: 4.0/4.3
+- Short academic internship at University of Wisconsin at Madison, USA
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Fall 2016 - Summer 2019`
+`Sep.2016-now`
+__Groupe de Recherche Interuniversitaire en Limnologie (GRIL)__
+- NSERC's CREATE trainee in lake and fluvial ecology (ÉcoLac)
 
-- Sizar
+`2013-2015`
+__Federal University of Minas Gerais (UFMG), Brazil__
+- Master of Science in Ecology, Conservation and Wildlife Management - GPA: 94.67/100
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2008-2013`
+__Federal University of Minas Gerais (UFMG), Brazil__
+- Bachelor in Biological Sciences - GPA: 4.78/5.00
+- Exchange student on Spring 2012 at University of Wisconsin at Madison, USA - GPA: 3.50/4.00
 
 ## Awards
 
