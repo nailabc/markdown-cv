@@ -135,9 +135,10 @@ Workshop lecturer
 
 Community engagement
 -------
+### Relevant volunteer experience
 `March 2019-now`
-- Reviewer of Le beagle (QCBS blog for science communication)
-- CSEE (Canadian Society for Ecology and Evolution) student representative
+- Reviewer of [Le beagle](https://lebeagle.qcbs.ca/) (QCBS blog for science communication)
+- [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
 
 `July 2019`
 - Mediator of discussion based on the documentary  “Harvest of Empire: The Untold Story of Latinos in America”, as part of the film festival Denial of Empire, at the International Cooperative House (Madison, USA)
@@ -148,23 +149,21 @@ Community engagement
 `Fall 2017 & Fall 2018`
 - Volunteer at Passarelle (tutoring between new and current students at UdeM)
 
+`2017`
+- Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
+
 `July 2015`
 - Assistant at “UFMG & Schools – Educating to science” (UFMG, Belo Horizonte, Brazil)
 
 `2010-2012`
 - Member of the student group “Evolução em Foco” (UFMG, Belo Horizonte, Brazil)
 
-
-Organizing commitee
--------
+### Member of organizing commitee
 `2018-2019`
 - Microbial Ecology Seminar Series, Montreal, Canada
 
 `2018`
 - BIOME (BIOinformatics for METabarcoding) workshop, Saint-Hippolyte, Canada
-
-`2017`
-- Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
 
 `2010 and 2011`
 - Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
