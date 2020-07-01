@@ -107,7 +107,8 @@ __Teaching assistant at University of Montreal (Montreal, Canada)__
 
 `Aug.2015-Aug.2016`
 __Teaching (Sete Lagoas, Brazil)__	  
-- English instructor and tutor of biology, chemistry, physics and mathematics
+- English instructor at [UPTIME](https://www.uptime.com.br/cursos-ingles)
+- Tutor of biology, chemistry, physics and mathematics
 
 `July-Aug.2015`
 __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
