@@ -89,12 +89,33 @@ Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, et al
 `2016`
 Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
 
-
 ### Preprint
 
 Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. bioRxiv. 2020; [doi: 10.1101/2020.04.12.038372](doi: 10.1101/2020.04.12.038372)
 
 S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impact on lake bacterial communities across Eastern Canada. bioRxiv. 2019;1–21. [doi: 10.1017/CBO9781107415324.004](doi: 10.1017/CBO9781107415324.004)
+
+Professional experience
+-------
+`2018-2020`
+__Teaching assistant at University of Montreal (Montreal, Canada)__
+- Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
+- Main assistant of Environmental Microbiology (BIO2405, Winter 2019 and Winter 2020)
+- General assistant of Microbial Ecology (BIO3721, Winter 2020)
+- General assistant of Protistology (BIO2150, Fall 2018 and Fall 2019)
+
+`Aug.2015-Aug.2016`
+__Teaching (Sete Lagoas, Brazil)__	  
+- English instructor and tutor of biology, chemistry, physics and mathematics
+
+`July-Aug.2015`
+__“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
+- Trainee in scientific journalism, six published reports
+
+`2013-2014`
+__Federal University of Minas Gerais (Belo Horizonte, Brazil)__
+- Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
+
 
 Science outreach
 -------
@@ -122,8 +143,7 @@ Community engagement
 - Mediator of discussion based on the documentary  “Harvest of Empire: The Untold Story of Latinos in America”, as part of the film festival Denial of Empire, at the International Cooperative House (Madison, USA)
 
 `2017-2018`
-- Participation as a GRIL member of the Eureka festival (Montreal, June 2018)
-- 24 hours of science (Montreal, May 2017 and 2018)
+- Participation as a GRIL member of the Eureka festival (Montreal, June 2018) and 24 hours of science (Montreal, May 2017 and 2018)
 
 `Fall 2017 & Fall 2018`
 - Volunteer at Passarelle (tutoring between new and current students at UdeM)
@@ -149,26 +169,6 @@ Organizing commitee
 `2010 and 2011`
 - Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
 
-Professional experience
--------
-`2018-2020`
-__Teaching assistant at University of Montreal (Montreal, Canada)__
-- Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
-- Main assistant of Environmental Microbiology (BIO2405, Winter 2019 and Winter 2020)
-- General assistant of Microbial Ecology (BIO3721, Winter 2020)
-- General assistant of Protistology (BIO2150, Fall 2018 and Fall 2019)
-
-`Aug.2015-Aug.2016`
-__Teaching (Sete Lagoas, Brazil)__	  
-- English instructor and tutor of biology, chemistry, physics and mathematics
-
-`July-Aug.2015`
-__“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
-- Trainee in scientific journalism, six published reports
-
-`2013-2014`
-__Federal University of Minas Gerais (Belo Horizonte, Brazil)__
-- Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
 
 <!-- 
 ### Hidden info
