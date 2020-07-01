@@ -74,7 +74,7 @@ Awards and scholarships
 **Undergraduate Research Scholarship** CEMIG (Brazil) - $3,200 BRL
 
 `2005, 2006 and 2007`
-**Excellence in High School studies** CNEC-CEI (Sete Lagoas, Brazil) - $150 BRL
+**Excellence in High School studies** CNEC-CEI (Sete Lagoas, Brazil) - 3*$150 BRL
 
 Publications
 -------
