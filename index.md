@@ -93,7 +93,7 @@ Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline sal
 
 Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. bioRxiv. 2020; [doi: 10.1101/2020.04.12.038372](https://www.biorxiv.org/content/10.1101/2020.04.12.038372v1)
 
-S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impact on lake bacterial communities across Eastern Canada. bioRxiv. 2019;1–21. [doi: https://doi.org/10.1101/821991](doi: https://doi.org/10.1101/821991)
+S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impact on lake bacterial communities across Eastern Canada. bioRxiv. 2019;1–21. [https://doi.org/10.1101/821991](https://doi.org/10.1101/821991)
 
 Professional experience
 -------
@@ -133,7 +133,7 @@ Community engagement
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
 - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
 
-### Member of organizing commitee
+#### Member of organizing commitee
 `2018-2019`
 - Microbial Ecology Seminar Series, Montreal, Canada
 
@@ -143,7 +143,7 @@ Community engagement
 `2010 and 2011`
 - Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
 
-### Relevant volunteer experience
+#### Relevant volunteer experience
 `March 2019-now`
 - Reviewer of [Le beagle](https://lebeagle.qcbs.ca/) (QCBS blog for science communication)
 - [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
