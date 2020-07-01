@@ -84,16 +84,16 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 ### Peer-reviewed
 `2020`
-Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, et al. Community rescue in experimental phytoplankton communities facing severe herbicide pollution. Nat Ecol Evol. 4:578–588. [doi: 10.1038/s41559-020-1134-5](doi: 10.1038/s41559-020-1134-5)
+Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, et al. Community rescue in experimental phytoplankton communities facing severe herbicide pollution. Nat Ecol Evol. 4:578–588. [doi: 10.1038/s41559-020-1134-5](https://www.nature.com/articles/s41559-020-1134-5)
 
 `2016`
 Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
 
 ### Preprint
 
-Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. bioRxiv. 2020; [doi: 10.1101/2020.04.12.038372](doi: 10.1101/2020.04.12.038372)
+Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. bioRxiv. 2020; [doi: 10.1101/2020.04.12.038372](https://www.biorxiv.org/content/10.1101/2020.04.12.038372v1)
 
-S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impact on lake bacterial communities across Eastern Canada. bioRxiv. 2019;1–21. [doi: 10.1017/CBO9781107415324.004](doi: 10.1017/CBO9781107415324.004)
+S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impact on lake bacterial communities across Eastern Canada. bioRxiv. 2019;1–21. [doi: https://doi.org/10.1101/821991](doi: https://doi.org/10.1101/821991)
 
 Professional experience
 -------
@@ -117,13 +117,6 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 - Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
 
 
-Science outreach
--------
-- Portfolio with articles for science popularization: [https://nailabcosta.contently](https://nailabcosta.contently)
-- YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
-- Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
-
-
 Workshop lecturer
 -------
 `2017`
@@ -135,6 +128,21 @@ Workshop lecturer
 
 Community engagement
 -------
+#### Science outreach
+- Portfolio with articles for science popularization: [https://nailabcosta.contently](https://nailabcosta.contently)
+- YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
+- Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
+
+### Member of organizing commitee
+`2018-2019`
+- Microbial Ecology Seminar Series, Montreal, Canada
+
+`2018`
+- BIOME (BIOinformatics for METabarcoding) workshop, Saint-Hippolyte, Canada
+
+`2010 and 2011`
+- Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
+
 ### Relevant volunteer experience
 `March 2019-now`
 - Reviewer of [Le beagle](https://lebeagle.qcbs.ca/) (QCBS blog for science communication)
@@ -157,17 +165,6 @@ Community engagement
 
 `2010-2012`
 - Member of the student group “Evolução em Foco” (UFMG, Belo Horizonte, Brazil)
-
-### Member of organizing commitee
-`2018-2019`
-- Microbial Ecology Seminar Series, Montreal, Canada
-
-`2018`
-- BIOME (BIOinformatics for METabarcoding) workshop, Saint-Hippolyte, Canada
-
-`2010 and 2011`
-- Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
-
 
 <!-- 
 ### Hidden info
