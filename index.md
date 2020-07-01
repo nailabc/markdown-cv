@@ -145,7 +145,7 @@ Community engagement
 
 #### Relevant volunteer experience
 `March 2019-now`
-- Reviewer of [Le beagle](https://lebeagle.qcbs.ca/) (QCBS blog for science communication)
+- Reviewer of [Le beagle](https://lebeagle.qcbs.ca/) (QCBS bilingual blog for science communication)
 - [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
 
 `July 2019` Discussion moderator of the documentary “Harvest of Empire: The Untold Story of Latinos in America”, as part of a movie festival at the International Cooperative House (Madison, USA)
