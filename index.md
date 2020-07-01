@@ -149,23 +149,17 @@ Community engagement
 - Reviewer of [Le beagle](https://lebeagle.qcbs.ca/) (QCBS blog for science communication)
 - [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
 
-`July 2019`
-- Mediator of discussion based on the documentary  “Harvest of Empire: The Untold Story of Latinos in America”, as part of the film festival Denial of Empire, at the International Cooperative House (Madison, USA)
+`July 2019` Discussion moderator of the documentary “Harvest of Empire: The Untold Story of Latinos in America”, as part of a movie festival at the International Cooperative House (Madison, USA)
 
-`2017-2018`
-- Participation as a GRIL member of the Eureka festival (Montreal, June 2018) and 24 hours of science (Montreal, May 2017 and 2018)
+`2017-2018` Participation as a GRIL member of the Eureka festival (Montreal, June 2018) and 24 hours of science (Montreal, May 2017 and 2018)
 
-`Fall 2017 & Fall 2018`
-- Volunteer at [Passarelle](http://www.ahc.umontreal.ca/ActivitesJumelage/passerelle.htm) (tutoring between new and current students at UdeM)
+`Fall 2017 & Fall 2018` Volunteer at [Passarelle](http://www.ahc.umontreal.ca/ActivitesJumelage/passerelle.htm) (tutoring between new and current students at UdeM)
 
-`2017`
-- Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
+`2017` Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
 
-`July 2015`
-- Assistant at [“UFMG & Schools – Educating to science”](https://www2.icb.ufmg.br/ufmgescolas/) (UFMG, Belo Horizonte, Brazil)
+`July 2015` Assistant at [“UFMG & Schools – Educating to science”](https://www2.icb.ufmg.br/ufmgescolas/) (UFMG, Belo Horizonte, Brazil)
 
-`2010-2012`
-- Member of the student group [“Evolução em Foco”](https://evolucaoemfoco.weebly.com/) (UFMG, Belo Horizonte, Brazil)
+`2010-2012` Member of the student group [“Evolução em Foco”](https://evolucaoemfoco.weebly.com/) (UFMG, Belo Horizonte, Brazil)
 
 <!-- 
 ### Hidden info
