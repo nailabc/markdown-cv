@@ -14,17 +14,16 @@ I am a Ph.D. candidate at UdeM, former trainee in the NSERC-CREATE ÉcoLac progr
 
 Key skills
 -------
-* Bioinformatics applied to microbiome metagenomics and amplicon sequencing
-*	Data analysis applied to microbial ecology
-*	General limnologic field techniques, phytoplankton and cyanobacteria identification
+* Bioinformatics for microbiome studies (metagenomics and amplicon sequencing)
+*	Data wrangling and data analysis applied to microbial ecology
 *	Molecular biology (DNA fingerprinting, PCR and qPCR, Illumina Miseq sequencing) 
-*	Experience in teaching and science popularization (written and oral communication)
+*	General limnologic field techniques, phytoplankton and cyanobacteria identification
+*	Teaching and science popularization (written and oral communication)
 *	Fast learner, creative, responsible and communicative
 * Fluent in English, French and Portuguese
 
 Education
 -------
-
 `Sep.2016-now`
 __University of Montreal (UdeM), Canada__
 - Ph.D. student in Biological Sciences - GPA: 4.0/4.3
@@ -82,18 +81,20 @@ Publications
 -------
 A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
-### Peer-reviewed
+#### Peer-reviewed
 `2020`
 Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, et al. Community rescue in experimental phytoplankton communities facing severe herbicide pollution. Nat Ecol Evol. 4:578–588. [doi: 10.1038/s41559-020-1134-5](https://www.nature.com/articles/s41559-020-1134-5)
 
 `2016`
 Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
 
-### Preprint
+#### Preprint
+`2020` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. bioRxiv. 2020; [doi: 10.1101/2020.04.12.038372](https://www.biorxiv.org/content/10.1101/2020.04.12.038372v1)
 
-Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. bioRxiv. 2020; [doi: 10.1101/2020.04.12.038372](https://www.biorxiv.org/content/10.1101/2020.04.12.038372v1)
+`2019` S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impact on lake bacterial communities across Eastern Canada. bioRxiv. 2019;1–21. [https://doi.org/10.1101/821991](https://doi.org/10.1101/821991)
 
-S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro, Y. Huot DW. Anthropogenic impact on lake bacterial communities across Eastern Canada. bioRxiv. 2019;1–21. [https://doi.org/10.1101/821991](https://doi.org/10.1101/821991)
+#### Science popularization
+`2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. Limnology and Oceanography Bulletin [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
 Professional experience
 -------
@@ -134,11 +135,14 @@ Community engagement
 - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
 
 #### Member of organizing commitee
+`2019`
+- [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
+
 `2018-2019`
-- Microbial Ecology Seminar Series, Montreal, Canada
+- [Microbial Ecology Seminar Series](https://wiki.qcbs.ca/microecoconf), Montreal, Canada
 
 `2018`
-- BIOME (BIOinformatics for METabarcoding) workshop, Saint-Hippolyte, Canada
+- [BIOME (BIOinformatics for METabarcoding)](https://wiki.qcbs.ca/biome) workshop, Saint-Hippolyte, Canada
 
 `2010 and 2011`
 - Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
@@ -155,16 +159,16 @@ Community engagement
 - Participation as a GRIL member of the Eureka festival (Montreal, June 2018) and 24 hours of science (Montreal, May 2017 and 2018)
 
 `Fall 2017 & Fall 2018`
-- Volunteer at Passarelle (tutoring between new and current students at UdeM)
+- Volunteer at [Passarelle](http://www.ahc.umontreal.ca/ActivitesJumelage/passerelle.htm) (tutoring between new and current students at UdeM)
 
 `2017`
 - Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
 
 `July 2015`
-- Assistant at “UFMG & Schools – Educating to science” (UFMG, Belo Horizonte, Brazil)
+- Assistant at [“UFMG & Schools – Educating to science”](https://www2.icb.ufmg.br/ufmgescolas/) (UFMG, Belo Horizonte, Brazil)
 
 `2010-2012`
-- Member of the student group “Evolução em Foco” (UFMG, Belo Horizonte, Brazil)
+- Member of the student group [“Evolução em Foco”](https://evolucaoemfoco.weebly.com/) (UFMG, Belo Horizonte, Brazil)
 
 <!-- 
 ### Hidden info
