@@ -130,22 +130,18 @@ Workshop lecturer
 Community engagement
 -------
 #### Science outreach
-- Portfolio with articles for science popularization: [https://nailabcosta.contently](https://nailabcosta.contently)
+- Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently](https://nailabcosta.contently)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
 - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
 
 #### Member of organizing commitee
-`2019`
-- [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
+`2019` [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
 
-`2018-2019`
-- [Microbial Ecology Seminar Series](https://wiki.qcbs.ca/microecoconf), Montreal, Canada
+`2018-2019` [Microbial Ecology Seminar Series](https://wiki.qcbs.ca/microecoconf), Montreal, Canada
 
-`2018`
-- [BIOME (BIOinformatics for METabarcoding)](https://wiki.qcbs.ca/biome) workshop, Saint-Hippolyte, Canada
+`2018` [BIOME (BIOinformatics for METabarcoding)](https://wiki.qcbs.ca/biome) workshop, Saint-Hippolyte, Canada
 
-`2010 and 2011`
-- Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
+`2010 and 2011` Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
 
 #### Relevant volunteer experience
 `March 2019-now`
