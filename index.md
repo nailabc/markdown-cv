@@ -9,8 +9,7 @@ Naíla Barbosa da Costa
 
 Summary
 -------
-
-I am a Ph.D. candidate at UdeM, former trainee in the NSERC-CREATE ÉcoLac program. I am highly interested in aquatic ecology, microbiology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am also engaged in science popularization and education.
+I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/), former trainee in the NSERC-CREATE ÉcoLac program. I am highly interested in aquatic ecology, microbiology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am also engaged in science popularization and education.
 
 Key skills
 -------
@@ -131,7 +130,7 @@ Workshop lecturer
 Community engagement
 -------
 #### Science outreach
-- Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently](https://nailabcosta.contently)
+- Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
 - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
 
