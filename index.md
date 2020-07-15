@@ -21,10 +21,10 @@ Key skills
 -------
 * Bioinformatics for microbiome studies (metagenomics and amplicon sequencing)
 *	Data wrangling and data analysis applied to microbial ecology
-*	Molecular biology (DNA fingerprinting, PCR and qPCR, Illumina Miseq sequencing) 
-*	General limnologic field techniques, phytoplankton and cyanobacteria identification
+*	Molecular biology (DNA fingerprinting, cloning, PCR and qPCR, Illumina Miseq sequencing) 
+*	General limnologic field techniques, phytoplankton identification
 *	Teaching and science popularization (written and oral communication)
-*	Fast learner, creative, responsible and communicative
+<!--*	Fast learner, creative, responsible and communicative-->
 * Fluent in English, French and Portuguese
 
 Education
