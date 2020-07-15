@@ -1,9 +1,7 @@
-<!--
 ---
 layout: cv
 title: Naila's CV
 ---
--->
 
 Naíla Barbosa da Costa
 ===========
@@ -169,6 +167,7 @@ Community engagement
 <!-- 
 ### Hidden info
 Check this template: https://mszep.github.io/pandoc_resume/
+Check output in: https://nailabc.github.io/markdown-cv/
 -->
 
 
