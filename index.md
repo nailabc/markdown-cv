@@ -84,8 +84,7 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 **Excellence in High School studies** 1st place Sophomore year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
 
 -------
-## Publications
-A list is also available [online](https://orcid.org/0000-0002-7158-933X)
+__## Publications__ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 #### Peer-reviewed
 `2020`
@@ -136,7 +135,7 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 #### Science outreach
 - Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
-- Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta)
+<!-- - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta) -->
 
 #### Member of organizing commitee
 `2019` [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
