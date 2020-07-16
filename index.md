@@ -12,16 +12,16 @@ Naíla Barbosa da Costa
 </div>
 
 ## Summary
-I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/), former trainee in the NSERC-CREATE ÉcoLac program. I am highly interested in aquatic ecology, microbiology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am also engaged in science popularization and education.
+I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/). I am interested in microbial and aquatic ecology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages.
 
-### Key skills
+<!--### Key skills
 * Bioinformatics for microbiome studies (metagenomics and amplicon sequencing)
 *	Data wrangling and data analysis applied to microbial ecology
 *	Molecular biology (DNA fingerprinting, cloning, PCR and qPCR, Illumina Miseq sequencing) 
 *	General limnologic field techniques, phytoplankton identification
 *	Teaching and science popularization (written and oral communication)
-<!--*	Fast learner, creative, responsible and communicative-->
-* Fluent in English, French and Portuguese
+*	Fast learner, creative, responsible and communicative
+* Fluent in English, French and Portuguese-->
 
 ## Education
 `Sep.2016-now`
