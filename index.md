@@ -8,7 +8,7 @@ Naíla Barbosa da Costa
 
 <div id="webaddress">
 <a href="naila.barbosa.da.costa@umontreal.ca">naila.barbosa.da.costa@umontreal.ca</a>
-| <a href="https://nailacosta.weebly.com/">Personal webpage</a>
+| Personal webpage: <a href="https://nailacosta.weebly.com/">nailacosta.weebly.com</a>
 </div>
 
 ## Summary
@@ -23,7 +23,6 @@ I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http:
 <!--*	Fast learner, creative, responsible and communicative-->
 * Fluent in English, French and Portuguese
 
--------
 ## Education
 `Sep.2016-now`
 __University of Montreal (UdeM), Canada__
@@ -55,13 +54,13 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 **Ph.D. training scholarship** NSERC-CREATE ÉcoLac $26,000 CAD
 
 `Dec2016`
-**Department awards** Fonds de bourse Étienne-Magnin $5,000 CAD
+**UdeM Biology Department awards** Fonds de bourse Étienne-Magnin $5,000 CAD
 
 `Sep2016-Aug2018`
 **International tuition fees exemption** FESP (UdeM-Canada) $53,000 CAD
 
 `May2016-Apr2017 (Refused)`
-**Research fellowship** CIMO (Finnish Centre for International Mobility) $13,500 EUR
+**Research fellowship** CIMO (Finnish Centre for International Mobility) Є13,500
 
 `Mar2013-Mar2015`
 **Master’s scholarship** CAPES (Brazil) $36,000 BRL
@@ -76,7 +75,7 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 **Undergraduate Research Scholarship** CEMIG (Brazil) $3,200 BRL
 
 `2005, 2006 and 2007`
-**Excellence in High School studies** CNEC-CEI (Sete Lagoas, Brazil) 3*$150 BRL
+**Excellence in High School studies (1st place)** CNEC-CEI (Sete Lagoas, Brazil) 3*$150 BRL
 
 -------
 ### Publications
@@ -120,16 +119,14 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 - Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
 
 -------
-### Workshop lecturer
+### Community engagement
+#### Workshop lecturer
 `2017`
 **I’m a microbe! Can’t you see me?** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
 
 `2016`
 **What’s a green dot in the lake? It’s phytoplankton!** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
 
-
--------
-### Community engagement
 #### Science outreach
 - Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
@@ -146,7 +143,7 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 
 #### Relevant volunteer experience
 `March 2019-now`
-- Reviewer of [Le beagle](https://lebeagle.qcbs.ca/) (QCBS bilingual blog for science communication)
+- Reviewer of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
 - [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
 
 `July 2019` Discussion moderator of the documentary “Harvest of Empire: The Untold Story of Latinos in America”, as part of a movie festival at the International Cooperative House (Madison, USA)
