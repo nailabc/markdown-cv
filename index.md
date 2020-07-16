@@ -75,13 +75,13 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 **Undergraduate Research Scholarship** CEMIG (Brazil) $3,200 BRL
 
 `2007`
-**Excellence in High School studies (1st place)** Senior year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
+**Excellence in High School studies** 1st place Senior year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
 
 `2006`
-**Excellence in High School studies (1st place)** Junior year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
+**Excellence in High School studies** 1st place Junior year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
 
 `2005`
-**Excellence in High School studies (1st place)** Sophomore year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
+**Excellence in High School studies** 1st place Sophomore year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
 
 -------
 ## Publications
