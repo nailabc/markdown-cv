@@ -11,11 +11,11 @@ Naíla Barbosa da Costa
 | <a href="https://nailacosta.weebly.com/">Personal webpage</a>
 </div>
 
-Summary
+## Summary
 -------
 I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/), former trainee in the NSERC-CREATE ÉcoLac program. I am highly interested in aquatic ecology, microbiology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am also engaged in science popularization and education.
 
-Key skills
+### Key skills
 -------
 * Bioinformatics for microbiome studies (metagenomics and amplicon sequencing)
 *	Data wrangling and data analysis applied to microbial ecology
@@ -25,7 +25,7 @@ Key skills
 <!--*	Fast learner, creative, responsible and communicative-->
 * Fluent in English, French and Portuguese
 
-Education
+### Education
 -------
 `Sep.2016-now`
 __University of Montreal (UdeM), Canada__
@@ -44,9 +44,8 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 __Federal University of Minas Gerais (UFMG), Brazil__
 - Bachelor in Biological Sciences - GPA: 4.78/5.00
 - Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
-
-Awards and scholarships
 -------
+### Awards and scholarships
 `June2020`
 **Best Ph.D. poster presentation** GRIL 2020 online symposium $100 CAD
 
@@ -80,7 +79,7 @@ Awards and scholarships
 `2005, 2006 and 2007`
 **Excellence in High School studies** CNEC-CEI (Sete Lagoas, Brazil) 3*$150 BRL
 
-
+-------
 ### Publications
 A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
@@ -122,7 +121,7 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 - Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
 
 
-Workshop lecturer
+### Workshop lecturer
 -------
 `2017`
 **I’m a microbe! Can’t you see me?** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
@@ -131,7 +130,7 @@ Workshop lecturer
 **What’s a green dot in the lake? It’s phytoplankton!** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
 
 
-Community engagement
+### Community engagement
 -------
 #### Science outreach
 - Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
