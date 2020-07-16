@@ -48,40 +48,40 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 Awards and scholarships
 -------
 `June2020`
-**Best Ph.D. poster presentation** GRIL 2020 online symposium - $100 CAD
+**Best Ph.D. poster presentation** GRIL 2020 online symposium $100 CAD
 
 `May2018-Aug2020`
-**Ph.D. merit scholarship** FRQNT (Quebec-Canada) - $49,000 CAD
+**Ph.D. merit scholarship** FRQNT (Quebec-Canada) $49,000 CAD
 
 `Sep2016-Aug2019`
-**Ph.D. training scholarship** NSERC-CREATE ÉcoLac - $26,000 CAD
+**Ph.D. training scholarship** NSERC-CREATE ÉcoLac $26,000 CAD
 
 `Dec2016`
-**Department awards** Fonds de bourse Étienne-Magnin - $5,000 CAD
+**Department awards** Fonds de bourse Étienne-Magnin $5,000 CAD
 
 `Sep2016-Aug2018`
-**International tuition fees exemption** FESP (UdeM-Canada) - $53,000 CAD
+**International tuition fees exemption** FESP (UdeM-Canada) $53,000 CAD
 
 `May2016-Apr2017 (Refused)`
-**Research fellowship** CIMO (Finnish Centre for International Mobility) - $13,500 EUR
+**Research fellowship** CIMO (Finnish Centre for International Mobility) $13,500 EUR
 
 `Mar2013-Mar2015`
-**Master’s scholarship** CAPES (Brazil) - $36,000 BRL
+**Master’s scholarship** CAPES (Brazil) $36,000 BRL
 
 `Aug2012-Feb2013`
-**Undergraduate Scholarship** FAPEMIG (Brazil) - $2,800 BRL
+**Undergraduate Scholarship** FAPEMIG (Brazil) $2,800 BRL
 
 `Jan2012-Jun2012`
-**Undergraduate exchange program** Minas Mundi and Santander Bank (Brazil) - $6,000 BRL
+**Undergraduate exchange program** Minas Mundi and Santander Bank (Brazil) $6,000 BRL
 
 `Dec2010-Jul2012`
-**Undergraduate Research Scholarship** CEMIG (Brazil) - $3,200 BRL
+**Undergraduate Research Scholarship** CEMIG (Brazil) $3,200 BRL
 
 `2005, 2006 and 2007`
-**Excellence in High School studies** CNEC-CEI (Sete Lagoas, Brazil) - 3*$150 BRL
+**Excellence in High School studies** CNEC-CEI (Sete Lagoas, Brazil) 3*$150 BRL
 
-Publications
--------
+
+### Publications
 A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 #### Peer-reviewed
@@ -99,7 +99,7 @@ Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline sal
 #### Science popularization
 `2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. Limnology and Oceanography Bulletin [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
-Professional experience
+### Professional experience
 -------
 `2018-2020`
 __Teaching assistant at University of Montreal (Montreal, Canada)__
