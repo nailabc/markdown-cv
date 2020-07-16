@@ -84,7 +84,8 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 **Excellence in High School studies** 1st place Sophomore year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
 
 -------
-__## Publications__ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
+## Publications
+<!-- A list is also available [online](https://orcid.org/0000-0002-7158-933X) -->
 
 #### Peer-reviewed
 `2020`
