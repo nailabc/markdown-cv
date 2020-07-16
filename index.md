@@ -12,7 +12,7 @@ Naíla Barbosa da Costa
 </div>
 
 ## Summary
-I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/). I am interested in microbial and aquatic ecology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages.
+I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/). I am interested in microbial and aquatic ecology, evolution and genomics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages.
 
 <!--### Key skills
 * Bioinformatics for microbiome studies (metagenomics and amplicon sequencing)
