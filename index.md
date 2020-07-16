@@ -12,11 +12,9 @@ Naíla Barbosa da Costa
 </div>
 
 ## Summary
--------
 I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/), former trainee in the NSERC-CREATE ÉcoLac program. I am highly interested in aquatic ecology, microbiology, evolution and genomics, and I have experience in microbial ecology, molecular biology and bioinformatics. I am also engaged in science popularization and education.
 
 ### Key skills
--------
 * Bioinformatics for microbiome studies (metagenomics and amplicon sequencing)
 *	Data wrangling and data analysis applied to microbial ecology
 *	Molecular biology (DNA fingerprinting, cloning, PCR and qPCR, Illumina Miseq sequencing) 
@@ -25,8 +23,8 @@ I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http:
 <!--*	Fast learner, creative, responsible and communicative-->
 * Fluent in English, French and Portuguese
 
-### Education
 -------
+## Education
 `Sep.2016-now`
 __University of Montreal (UdeM), Canada__
 - Ph.D. student in Biological Sciences - GPA: 4.0/4.3
@@ -44,6 +42,7 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 __Federal University of Minas Gerais (UFMG), Brazil__
 - Bachelor in Biological Sciences - GPA: 4.78/5.00
 - Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
+
 -------
 ### Awards and scholarships
 `June2020`
@@ -98,8 +97,8 @@ Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline sal
 #### Science popularization
 `2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. Limnology and Oceanography Bulletin [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
-### Professional experience
 -------
+### Professional experience
 `2018-2020`
 __Teaching assistant at University of Montreal (Montreal, Canada)__
 - Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
@@ -120,9 +119,8 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 - Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
 
-
-### Workshop lecturer
 -------
+### Workshop lecturer
 `2017`
 **I’m a microbe! Can’t you see me?** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
 
@@ -130,8 +128,8 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 **What’s a green dot in the lake? It’s phytoplankton!** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
 
 
-### Community engagement
 -------
+### Community engagement
 #### Science outreach
 - Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
