@@ -43,7 +43,7 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 - Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
 
 -------
-### Awards and scholarships
+## Awards and scholarships
 `June2020`
 **Best Ph.D. poster presentation** GRIL 2020 online symposium $100 CAD
 
@@ -75,10 +75,10 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 **Undergraduate Research Scholarship** CEMIG (Brazil) $3,200 BRL
 
 `2005, 2006 and 2007`
-**Excellence in High School studies (1st place)** CNEC-CEI (Sete Lagoas, Brazil) 3*$150 BRL
+**Excellence in High School studies** CNEC-CEI (Sete Lagoas, Brazil) 3*$150 BRL
 
 -------
-### Publications
+## Publications
 A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 #### Peer-reviewed
@@ -97,7 +97,7 @@ Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline sal
 `2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. Limnology and Oceanography Bulletin [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
 -------
-### Professional experience
+## Professional experience
 `2018-2020`
 __Teaching assistant at University of Montreal (Montreal, Canada)__
 - Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
@@ -119,7 +119,7 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 - Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
 
 -------
-### Community engagement
+## Community engagement
 #### Workshop lecturer
 `2017`
 **I’m a microbe! Can’t you see me?** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
