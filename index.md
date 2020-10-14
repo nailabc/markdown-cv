@@ -159,9 +159,9 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 
 `2017-2018` Participation as a GRIL member of the Eureka festival (Montreal, June 2018) and 24 hours of science (Montreal, May 2017 and 2018)
 
-`Fall 2017 & Fall 2018` Volunteer at [Passarelle](http://www.ahc.umontreal.ca/ActivitesJumelage/passerelle.htm) (tutoring between new and current students at UdeM)
+<!--`Fall 2017 & Fall 2018` Volunteer at [Passarelle](http://www.ahc.umontreal.ca/ActivitesJumelage/passerelle.htm) (tutoring between new and current students at UdeM)
 
-`2017` Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
+`2017` Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada-->
 
 `July 2015` Assistant at [“UFMG & Schools – Educating to science”](https://www2.icb.ufmg.br/ufmgescolas/) (UFMG, Belo Horizonte, Brazil)
 
