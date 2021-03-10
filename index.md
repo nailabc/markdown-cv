@@ -181,6 +181,6 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 Check this template: https://mszep.github.io/pandoc_resume/
 Check output in: https://nailabc.github.io/markdown-cv/
 Change style in the _config.yml file
-<!-- 
+-->
 
 
