@@ -135,6 +135,9 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 
 -------
 ## Community engagement
+#### Peer-review in scientific publications
+`2021` Reviewer for PLOS ONE
+
 #### Workshop lecturer
 `2017`
 **I’m a microbe! Can’t you see me?** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
@@ -154,16 +157,16 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 
 `2018` [BIOME (BIOinformatics for METabarcoding)](https://wiki.qcbs.ca/biome) workshop, Saint-Hippolyte, Canada
 
-`2010 and 2011` Darwin Day III (2011) and Darwin Day II (2010) Symposia, UFMG, Belo Horizonte, Brazil
+`2010 and 2011` Darwin Day III (2011) and Darwin Day II (2010) [Symposia](https://evolucaoemfoco.weebly.com/atividades.html), UFMG, Belo Horizonte, Brazil
 
 #### Relevant volunteer experience
-`March 2019-now`
-- Reviewer of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
+`March 2019-now` 
+- Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
 - [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
 
 `July 2019` Discussion moderator of the documentary “Harvest of Empire: The Untold Story of Latinos in America”, as part of a movie festival at the International Cooperative House (Madison, USA)
 
-`2017-2018` Participation as a GRIL member of the Eureka festival (Montreal, June 2018) and 24 hours of science (Montreal, May 2017 and 2018)
+`2017-2018` Participation as a [GRIL](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=543) member of the Eureka festival (Montreal, June 2018) and 24 hours of science (Montreal, May 2017 and 2018)
 
 <!--`Fall 2017 & Fall 2018` Volunteer at [Passarelle](http://www.ahc.umontreal.ca/ActivitesJumelage/passerelle.htm) (tutoring between new and current students at UdeM)
 
@@ -178,6 +181,6 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 Check this template: https://mszep.github.io/pandoc_resume/
 Check output in: https://nailabc.github.io/markdown-cv/
 Change style in the _config.yml file
--->
+<!-- 
 
 
