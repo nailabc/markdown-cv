@@ -117,8 +117,8 @@ Barbosa da Costa N, Hébert M-P, Fugère V, Gonzalez A, Fussmann G., Shapiro BJ.
 ## Professional experience
 `2018-2021`
 __Teaching assistant at University of Montreal (Montreal, Canada)__
-- Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
 - Main assistant of Environmental Microbiology (BIO2405, Winter 2019-2021)
+- Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
 - General assistant of Microbial Ecology (BIO3721, Winter 2020)
 - General assistant of Protistology (BIO2150, Fall 2018-2020)
 
