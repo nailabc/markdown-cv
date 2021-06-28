@@ -91,9 +91,13 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 
 -------
 ## Publications
-<!-- A list is also available [online](https://orcid.org/0000-0002-7158-933X) -->
+A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 #### Peer-reviewed
+`2021 - accepted` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. Molecular Ecology. [preprint](https://www.biorxiv.org/content/10.1101/2020.04.12.038372v1)
+
+`2021 - accepted` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. Ecological Applications [preprint](https://doi.org/10.1101/2020.10.01.322370)
+
 `2020`
 S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro,  M. Fradette, Y. Huot, D. Walsh. A large-scale assessment of lakes reveals a pervasive signal of land use on bacterial communities. The ISME Journal. [doi: 10.1038/s41396-020-0733-0](https://www.nature.com/articles/s41396-020-0733-0)
 
@@ -103,27 +107,27 @@ Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, et al
 `2016`
 Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
 
-#### Preprint
-`2020` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. bioRxiv. [doi: 10.1101/2020.04.12.038372](https://www.biorxiv.org/content/10.1101/2020.04.12.038372v1)
-
-`2020` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. bioRxiv [doi: 10.1101/2020.10.01.322370](https://doi.org/10.1101/2020.10.01.322370)
+#### In preparation
+Barbosa da Costa N, Hébert M-P, Fugère V, Gonzalez A, Fussmann G., Shapiro BJ. Glyphosate stress increases antimicrobial resistance gene frequency in aquatic mesocosms.
 
 #### Science popularization
 `2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. Limnology and Oceanography Bulletin [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
 -------
 ## Professional experience
-`2018-2020`
+`2018-2021`
 __Teaching assistant at University of Montreal (Montreal, Canada)__
 - Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
-- Main assistant of Environmental Microbiology (BIO2405, Winter 2019-2020)
+- Main assistant of Environmental Microbiology (BIO2405, Winter 2019-2021)
 - General assistant of Microbial Ecology (BIO3721, Winter 2020)
 - General assistant of Protistology (BIO2150, Fall 2018-2020)
 
+<!--
 `Aug.2015-Aug.2016`
 __Teaching (Sete Lagoas, Brazil)__	  
 - English instructor at [UPTIME](https://www.uptime.com.br/cursos-ingles)
 - Tutor of biology, chemistry, physics and mathematics
+-->
 
 `July-Aug.2015`
 __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
@@ -139,6 +143,9 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 `2021` Reviewer for PLOS ONE
 
 #### Workshop lecturer
+`2021`
+**Automating tasks with the Unix Shell** as a certified [Carpentry](https://carpentries.org/) instructor in the Arizona State University ([online](https://harivyasi.github.io/2021-06-14-asu-online/))
+
 `2017`
 **I’m a microbe! Can’t you see me?** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
 
