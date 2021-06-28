@@ -91,7 +91,7 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 
 -------
 ## Publications
-A list is also available [online](https://orcid.org/0000-0002-7158-933X)
+<!--A list is also available [online](https://orcid.org/0000-0002-7158-933X)-->
 
 #### Peer-reviewed
 `Accepted in 2021` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. Molecular Ecology. [Preprint](https://www.biorxiv.org/content/10.1101/2020.04.12.038372v1)
