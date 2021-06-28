@@ -42,6 +42,30 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 - Bachelor in Biological Sciences - GPA: 4.78/5.00
 - Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
 
+-------
+## Professional experience
+`2018-2021`
+__Teaching assistant at University of Montreal (Montreal, Canada)__
+- Main assistant of Environmental Microbiology (BIO2405, Winter 2019-2021)
+- Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
+- General assistant of Microbial Ecology (BIO3721, Winter 2020)
+- General assistant of Protistology (BIO2150, Fall 2018-2020)
+
+<!--
+`Aug.2015-Aug.2016`
+__Teaching (Sete Lagoas, Brazil)__	  
+- English instructor at [UPTIME](https://www.uptime.com.br/cursos-ingles)
+- Tutor of biology, chemistry, physics and mathematics
+-->
+
+`July-Aug.2015`
+__“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
+- Trainee in scientific journalism, six published reports
+
+`2013-2014`
+__Federal University of Minas Gerais (Belo Horizonte, Brazil)__
+- Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
+
 
 -------
 ## Publications
@@ -66,30 +90,6 @@ Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline sal
 
 #### In preparation
 Barbosa da Costa N, Hébert M-P, Fugère V, Gonzalez A, Fussmann G., Shapiro BJ. Glyphosate stress increases antimicrobial resistance gene frequency in aquatic mesocosms.
-
--------
-## Professional experience
-`2018-2021`
-__Teaching assistant at University of Montreal (Montreal, Canada)__
-- Main assistant of Environmental Microbiology (BIO2405, Winter 2019-2021)
-- Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
-- General assistant of Microbial Ecology (BIO3721, Winter 2020)
-- General assistant of Protistology (BIO2150, Fall 2018-2020)
-
-<!--
-`Aug.2015-Aug.2016`
-__Teaching (Sete Lagoas, Brazil)__	  
-- English instructor at [UPTIME](https://www.uptime.com.br/cursos-ingles)
-- Tutor of biology, chemistry, physics and mathematics
--->
-
-`July-Aug.2015`
-__“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
-- Trainee in scientific journalism, six published reports
-
-`2013-2014`
-__Federal University of Minas Gerais (Belo Horizonte, Brazil)__
-- Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
 
 -------
 ## Awards and scholarships
@@ -159,6 +159,7 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
 <!-- - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta) -->
 
+<!--
 #### Member of organizing commitee
 `2019` [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
 
@@ -167,13 +168,16 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 `2018` [BIOME (BIOinformatics for METabarcoding)](https://wiki.qcbs.ca/biome) workshop, Saint-Hippolyte, Canada
 
 `2010 and 2011` Darwin Day III (2011) and Darwin Day II (2010) [Symposia](https://evolucaoemfoco.weebly.com/atividades.html), UFMG, Belo Horizonte, Brazil
+-->
 
 #### Relevant volunteer experience
 `March 2019-now` 
 - Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
 - [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
 
+<!--
 `July 2019` Discussion moderator of the documentary “Harvest of Empire: The Untold Story of Latinos in America”, as part of a movie festival at the International Cooperative House (Madison, USA)
+-->
 
 `2017-2018` Participation as a [GRIL](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=543) member of the Eureka festival (Montreal, June 2018) and 24 hours of science (Montreal, May 2017 and 2018)
 
