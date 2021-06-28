@@ -42,52 +42,6 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 - Bachelor in Biological Sciences - GPA: 4.78/5.00
 - Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
 
--------
-## Awards and scholarships
-`December 2020`
-**UdeM department awards** Fonds de Bourses Sciences Biologiques (doctorat) $1,500 CAD
-
-`October 2020`
-**BIPOC spotlight** CSEE microgrant $200
-
-`June2020`
-**Best Ph.D. poster presentation** GRIL 2020 online symposium $100 CAD
-
-`May2018-Aug2020`
-**Ph.D. merit scholarship** FRQNT (Quebec-Canada) $49,000 CAD
-
-`Sep2016-Aug2019`
-**Ph.D. training scholarship** NSERC-CREATE ÉcoLac $26,000 CAD
-
-`Dec2016`
-**UdeM Biology Department awards** Fonds de bourse Étienne-Magnin $5,000 CAD
-
-`Sep2016-Aug2018`
-**International tuition fees exemption** FESP (UdeM-Canada) $53,000 CAD
-
-`May2016-Apr2017 (Refused)`
-**Research fellowship** CIMO (Finnish Centre for International Mobility) Є13,500
-
-`Mar2013-Mar2015`
-**Master’s scholarship** CAPES (Brazil) $36,000 BRL
-
-`Aug2012-Feb2013`
-**Undergraduate Scholarship** FAPEMIG (Brazil) $2,800 BRL
-
-`Jan2012-Jun2012`
-**Undergraduate exchange program** Minas Mundi and Santander Bank (Brazil) $6,000 BRL
-
-`Dec2010-Jul2012`
-**Undergraduate Research Scholarship** CEMIG (Brazil) $3,200 BRL
-
-`2007`
-**Excellence in High School studies** 1st place Senior year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
-
-`2006`
-**Excellence in High School studies** 1st place Junior year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
-
-`2005`
-**Excellence in High School studies** 1st place Sophomore year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
 
 -------
 ## Publications
@@ -136,6 +90,54 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 `2013-2014`
 __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 - Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
+
+-------
+## Awards and scholarships
+`December 2020`
+**UdeM department awards** Fonds de Bourses Sciences Biologiques (doctorat) $1,500 CAD
+
+`October 2020`
+**BIPOC spotlight** CSEE microgrant $200
+
+`June2020`
+**Best Ph.D. poster presentation** GRIL 2020 online symposium $100 CAD
+
+`May2018-Aug2020`
+**Ph.D. merit scholarship** FRQNT (Quebec-Canada) $49,000 CAD
+
+`Sep2016-Aug2019`
+**Ph.D. training scholarship** NSERC-CREATE ÉcoLac $26,000 CAD
+
+`Dec2016`
+**UdeM Biology Department awards** Fonds de bourse Étienne-Magnin $5,000 CAD
+
+`Sep2016-Aug2018`
+**International tuition fees exemption** FESP (UdeM-Canada) $53,000 CAD
+
+`May2016-Apr2017 (Refused)`
+**Research fellowship** CIMO (Finnish Centre for International Mobility) Є13,500
+
+`Mar2013-Mar2015`
+**Master’s scholarship** CAPES (Brazil) $36,000 BRL
+
+`Aug2012-Feb2013`
+**Undergraduate Scholarship** FAPEMIG (Brazil) $2,800 BRL
+
+`Jan2012-Jun2012`
+**Undergraduate exchange program** Minas Mundi and Santander Bank (Brazil) $6,000 BRL
+
+`Dec2010-Jul2012`
+**Undergraduate Research Scholarship** CEMIG (Brazil) $3,200 BRL
+
+`2007`
+**Excellence in High School studies** 1st place Senior year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
+
+`2006`
+**Excellence in High School studies** 1st place Junior year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
+
+`2005`
+**Excellence in High School studies** 1st place Sophomore year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
+
 
 -------
 ## Community engagement
