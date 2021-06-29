@@ -16,8 +16,8 @@ I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http:
 
 ### Key skills
 * Bioinformatics for microbiome studies (metagenomics and amplicon sequencing)
-*	Data wrangling and data analysis applied to microbial ecology
-*	Molecular biology (DNA fingerprinting, cloning, PCR and qPCR, Illumina Miseq sequencing) 
+*	Data wrangling and data analysis applied to microbial ecology (R, Python, Shell)
+*	Microbiology and molecular biology lab techniques (bacteria isolation, plasmid cloning, PCR and qPCR, DNA fingerprinting, Illumina Miseq sequencing) 
 *	General limnologic field techniques, phytoplankton identification
 *	Teaching and science popularization (written and oral communication)
 *	Fast learner, creative, responsible and communicative
