@@ -14,14 +14,14 @@ Naíla Barbosa da Costa
 ## Summary
 I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/). I am interested in microbial and aquatic ecology, evolution and genomics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
 
-<!--### Key skills
+### Key skills
 * Bioinformatics for microbiome studies (metagenomics and amplicon sequencing)
 *	Data wrangling and data analysis applied to microbial ecology
 *	Molecular biology (DNA fingerprinting, cloning, PCR and qPCR, Illumina Miseq sequencing) 
 *	General limnologic field techniques, phytoplankton identification
 *	Teaching and science popularization (written and oral communication)
 *	Fast learner, creative, responsible and communicative
-* Fluent in English, French and Portuguese-->
+<!--* Fluent in English, French and Portuguese-->
 
 ## Education
 `Sep.2016-now`
@@ -159,7 +159,7 @@ Barbosa da Costa N, Hébert M-P, Fugère V, Gonzalez A, Fussmann G., Shapiro BJ.
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
 <!-- - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta) -->
 
-<!--
+
 #### Member of organizing commitee
 `2019` [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
 
@@ -168,12 +168,13 @@ Barbosa da Costa N, Hébert M-P, Fugère V, Gonzalez A, Fussmann G., Shapiro BJ.
 `2018` [BIOME (BIOinformatics for METabarcoding)](https://wiki.qcbs.ca/biome) workshop, Saint-Hippolyte, Canada
 
 `2010 and 2011` Darwin Day III (2011) and Darwin Day II (2010) [Symposia](https://evolucaoemfoco.weebly.com/atividades.html), UFMG, Belo Horizonte, Brazil
--->
+
 
 #### Relevant volunteer experience
-`March 2019-now` 
-- Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
-- [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
+`Currently` 
+- Certified [Carpentry](https://carpentries.org/) instructor since April 2021
+- Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication since March 2019
+- [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative since March 2019
 
 <!--
 `July 2019` Discussion moderator of the documentary “Harvest of Empire: The Untold Story of Latinos in America”, as part of a movie festival at the International Cooperative House (Madison, USA)
