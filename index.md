@@ -142,7 +142,7 @@ Barbosa da Costa N, Hébert M-P, Fugère V, Gonzalez A, Fussmann G., Shapiro BJ.
 -------
 ## Community engagement
 #### Peer-review in scientific publications
-`2021` Reviewer for PLOS ONE
+`2021` Reviewer for PLOS ONE (3 reviews)
 
 #### Workshop lecturer
 `2021`
