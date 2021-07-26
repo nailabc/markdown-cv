@@ -20,7 +20,7 @@ I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http:
 *	Microbiology and molecular biology techniques (bacteria isolation, plasmid cloning, PCR and qPCR, DNA fingerprinting, NGS) 
 *	General limnologic field techniques, phytoplankton identification
 *	Teaching and science popularization (written and oral communication)
-*	Fast learner, creative, responsible and communicative
+*	Fast learner, creative, collaborative, responsible and communicative
 <!--* Fluent in English, French and Portuguese-->
 
 ## Education
