@@ -72,9 +72,9 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 <!--A list is also available [online](https://orcid.org/0000-0002-7158-933X)-->
 
 #### Peer-reviewed
-`Accepted in 2021` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. Molecular Ecology. [Preprint](https://www.biorxiv.org/content/10.1101/2020.04.12.038372v1)
+`2021` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner B, et al. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. Molecular Ecology. [doi: 10.111/mec.16100](https://onlinelibrary.wiley.com/doi/10.1111/mec.16100)
 
-`Accepted in 2021` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. Ecological Applications. [Preprint](https://doi.org/10.1101/2020.10.01.322370)
+`2021` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. Ecological Applications. [doi: 10.1002/eap.2423](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2423)
 
 `2020`
 S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro,  M. Fradette, Y. Huot, D. Walsh. A large-scale assessment of lakes reveals a pervasive signal of land use on bacterial communities. The ISME Journal. [doi: 10.1038/s41396-020-0733-0](https://www.nature.com/articles/s41396-020-0733-0)
