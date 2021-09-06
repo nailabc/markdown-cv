@@ -85,6 +85,9 @@ Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, et al
 `2016`
 Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
 
+#### Book chapter
+`2021`  Oki Y, Nascimento IM, da Costa NB, Maia RA, Takahashi JA, Ferraz V, Correa Junior A, Wilson GW (2021) Effectiveness of Endophytic Fungi from Baccharis dracunculifolia Against Sucking Insect and Fungal Pathogens. In: Rosa LH (eds) Neotropical Endophytic Fungi. Springer, Cham. [https://doi.org/10.1007/978-3-030-53506-3_15](https://doi.org/10.1007/978-3-030-53506-3_15)
+
 #### For science popularization
 `2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. Limnology and Oceanography Bulletin [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
@@ -142,7 +145,7 @@ Barbosa da Costa N, Hébert M-P, Fugère V, Gonzalez A, Fussmann G., Shapiro BJ.
 -------
 ## Community engagement
 #### Peer-review in scientific publications
-`2021` Reviewer for PLOS ONE (3 reviews)
+`2021` Reviewer for PLOS ONE
 
 #### Workshop lecturer
 `2021`
