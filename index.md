@@ -77,13 +77,13 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 `2021` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. Ecological Applications. [doi: 10.1002/eap.2423](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2423)
 
 `2020`
-S.A. Kraemer, N. Barbosa da Costa, B.J. Shapiro,  M. Fradette, Y. Huot, D. Walsh. A large-scale assessment of lakes reveals a pervasive signal of land use on bacterial communities. The ISME Journal. [doi: 10.1038/s41396-020-0733-0](https://www.nature.com/articles/s41396-020-0733-0)
+Kraemer SA, Barbosa da Costa N, Shapiro BJ, Fradette M, Huot Y, Walsh D. A large-scale assessment of lakes reveals a pervasive signal of land use on bacterial communities. The ISME Journal. [doi: 10.1038/s41396-020-0733-0](https://www.nature.com/articles/s41396-020-0733-0)
 
 `2020`
 Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, et al. Community rescue in experimental phytoplankton communities facing severe herbicide pollution. Nat Ecol Evol. 4:578–588. [doi: 10.1038/s41559-020-1134-5](https://www.nature.com/articles/s41559-020-1134-5)
 
 `2016`
-Costa, N. B., Kolman, M. A., & Giani, A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
+Costa NB, Kolman MA, Giani A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
 
 #### Book chapter
 `2021`  Oki Y, Nascimento IM, da Costa NB, Maia RA, Takahashi JA, Ferraz V, Correa Junior A, Wilson GW (2021) Effectiveness of Endophytic Fungi from Baccharis dracunculifolia Against Sucking Insect and Fungal Pathogens. In: Rosa LH (eds) Neotropical Endophytic Fungi. Springer, Cham. [https://doi.org/10.1007/978-3-030-53506-3_15](https://doi.org/10.1007/978-3-030-53506-3_15)
