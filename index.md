@@ -72,6 +72,10 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 <!--A list is also available [online](https://orcid.org/0000-0002-7158-933X)-->
 
 #### Peer-reviewed
+`Accepted in 2022` Barbosa da Costa N, Hébert M-P, Fugère V, Terrat Y, Fussmann G, Gonzalez A, Shapiro BJ. A glyphosate-based herbicide cross-selects for antibiotic resistance genes in bacterioplankton communities. mSystems
+
+`2022` MacKeigan PW, Garner RE, Monchamp ME, Walsh DA, Onana VE, Kraemer SA, Pick FR, Beisner BE, Agbeti MD, Barbosa da Costa N, Shapiro BJ, Gregory-Eaves I. Comparing microscopy and DNA metabarcoding techniques for identifying cyanobacteria assemblages across hundreds of lakes, Harmful Algae. [doi: 10.1016/j.hal.2022.102187](https://www.sciencedirect.com/science/article/pii/S1568988322000166?via%3Dihub)
+
 `2021` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner BE, Bell G, Yargeau V, Fussmann G, Shapiro BJ. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. Molecular Ecology. 30:4771-4788. [doi: 10.111/mec.16100](https://onlinelibrary.wiley.com/doi/10.1111/mec.16100)
 
 `2021` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. Ecological Applications. 31(7):e02423. [doi: 10.1002/eap.2423](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2423)
@@ -91,11 +95,11 @@ Costa NB, Kolman MA, Giani A. Cyanobacteria diversity in alkaline saline lakes i
 #### For science popularization
 `2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. Limnology and Oceanography Bulletin [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
-#### In preparation
-Barbosa da Costa N, Hébert M-P, Fugère V, Gonzalez A, Fussmann G., Shapiro BJ. Glyphosate stress increases antimicrobial resistance gene frequency in aquatic mesocosms.
-
 -------
 ## Awards and scholarships
+`December 2021`
+**UdeM department awards** Fonds de Bourses Sciences Biologiques (doctorat) $1,000 CAD
+
 `December 2020`
 **UdeM department awards** Fonds de Bourses Sciences Biologiques (doctorat) $1,500 CAD
 
