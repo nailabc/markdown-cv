@@ -72,28 +72,25 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 <!--A list is also available [online](https://orcid.org/0000-0002-7158-933X)-->
 
 #### Peer-reviewed
-`2022` Barbosa da Costa N, Hébert M-P, Fugère V, Terrat Y, Fussmann G, Gonzalez A, Shapiro BJ. A glyphosate-based herbicide cross-selects for antibiotic resistance genes in bacterioplankton communities. mSystems [doi: 10.1128/msystems.01482-21](https://doi.org/10.1128/msystems.01482-21)
+`2022` Barbosa da Costa N, Hébert M-P, Fugère V, Terrat Y, Fussmann G, Gonzalez A, Shapiro BJ. A glyphosate-based herbicide cross-selects for antibiotic resistance genes in bacterioplankton communities. _mSystems_ [doi: 10.1128/msystems.01482-21](https://doi.org/10.1128/msystems.01482-21)
 
-`2022` MacKeigan PW, Garner RE, Monchamp ME, Walsh DA, Onana VE, Kraemer SA, Pick FR, Beisner BE, Agbeti MD, Barbosa da Costa N, Shapiro BJ, Gregory-Eaves I. Comparing microscopy and DNA metabarcoding techniques for identifying cyanobacteria assemblages across hundreds of lakes, Harmful Algae. [doi: 10.1016/j.hal.2022.102187](https://www.sciencedirect.com/science/article/pii/S1568988322000166?via%3Dihub)
+`2022` MacKeigan PW, Garner RE, Monchamp ME, Walsh DA, Onana VE, Kraemer SA, Pick FR, Beisner BE, Agbeti MD, Barbosa da Costa N, Shapiro BJ, Gregory-Eaves I. Comparing microscopy and DNA metabarcoding techniques for identifying cyanobacteria assemblages across hundreds of lakes. _Harmful Algae_ [doi: 10.1016/j.hal.2022.102187](https://www.sciencedirect.com/science/article/pii/S1568988322000166?via%3Dihub)
 
-`2021` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner BE, Bell G, Yargeau V, Fussmann G, Shapiro BJ. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. Molecular Ecology. 30:4771-4788. [doi: 10.111/mec.16100](https://onlinelibrary.wiley.com/doi/10.1111/mec.16100)
+`2021` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner BE, Bell G, Yargeau V, Fussmann G, Shapiro BJ. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. _Molecular Ecology_ 30:4771-4788. [doi: 10.111/mec.16100](https://onlinelibrary.wiley.com/doi/10.1111/mec.16100)
 
-`2021` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. Ecological Applications. 31(7):e02423. [doi: 10.1002/eap.2423](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2423)
+`2021` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. _Ecological Applications_ 31(7):e02423. [doi: 10.1002/eap.2423](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2423)
 
-`2020`
-Kraemer SA, Barbosa da Costa N, Shapiro BJ, Fradette M, Huot Y, Walsh D. A large-scale assessment of lakes reveals a pervasive signal of land use on bacterial communities. The ISME Journal. 14:3011-3023. [doi: 10.1038/s41396-020-0733-0](https://www.nature.com/articles/s41396-020-0733-0)
+`2020` Kraemer SA, Barbosa da Costa N, Shapiro BJ, Fradette M, Huot Y, Walsh D. A large-scale assessment of lakes reveals a pervasive signal of land use on bacterial communities. _The ISME Journal_ 14:3011-3023. [doi: 10.1038/s41396-020-0733-0](https://www.nature.com/articles/s41396-020-0733-0)
 
-`2020`
-Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, Bell G, Fussmann G, Shapiro BJ, Yargeau V, Gonzalez A. Community rescue in experimental phytoplankton communities facing severe herbicide pollution. Nat Ecol Evol. 4:578-588. [doi: 10.1038/s41559-020-1134-5](https://www.nature.com/articles/s41559-020-1134-5)
+`2020` Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, Bell G, Fussmann G, Shapiro BJ, Yargeau V, Gonzalez A. Community rescue in experimental phytoplankton communities facing severe herbicide pollution. _Nat Ecol Evol_ 4:578-588. [doi: 10.1038/s41559-020-1134-5](https://www.nature.com/articles/s41559-020-1134-5)
 
-`2016`
-Costa NB, Kolman MA, Giani A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. Journal of Plankton Research, 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
+`2016` Costa NB, Kolman MA, Giani A. Cyanobacteria diversity in alkaline saline lakes in the Brazilian Pantanal wetland: a polyphasic approach. _Journal of Plankton Research_ 38(6): 1389-1403. [https://doi.org/10.1093/plankt/fbw066](https://doi.org/10.1093/plankt/fbw066)
 
 #### Book chapter
-`2021`  Oki Y, Nascimento IM, da Costa NB, Maia RA, Takahashi JA, Ferraz V, Correa Junior A, Wilson GW. Effectiveness of Endophytic Fungi from Baccharis dracunculifolia Against Sucking Insect and Fungal Pathogens. In: Rosa LH (eds) Neotropical Endophytic Fungi. Springer, Cham. [https://doi.org/10.1007/978-3-030-53506-3_15](https://doi.org/10.1007/978-3-030-53506-3_15)
+`2021`  Oki Y, Nascimento IM, da Costa NB, Maia RA, Takahashi JA, Ferraz V, Correa Junior A, Wilson GW. Effectiveness of Endophytic Fungi from Baccharis dracunculifolia Against Sucking Insect and Fungal Pathogens. _In: Rosa LH (eds) Neotropical Endophytic Fungi_. Springer, Cham. [https://doi.org/10.1007/978-3-030-53506-3_15](https://doi.org/10.1007/978-3-030-53506-3_15)
 
 #### For science popularization
-`2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. Limnology and Oceanography Bulletin [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
+`2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. _Limnology and Oceanography Bulletin_ [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
 -------
 ## Awards and scholarships
