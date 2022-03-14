@@ -76,7 +76,7 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 
 `2022` MacKeigan PW, Garner RE, Monchamp ME, Walsh DA, Onana VE, Kraemer SA, Pick FR, Beisner BE, Agbeti MD, Barbosa da Costa N, Shapiro BJ, Gregory-Eaves I. Comparing microscopy and DNA metabarcoding techniques for identifying cyanobacteria assemblages across hundreds of lakes. _Harmful Algae_ [doi: 10.1016/j.hal.2022.102187](https://www.sciencedirect.com/science/article/pii/S1568988322000166?via%3Dihub)
 
-`2021` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner BE, Bell G, Yargeau V, Fussmann G, Shapiro BJ. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. _Molecular Ecology_ 30:4771-4788. [doi: 10.111/mec.16100](https://onlinelibrary.wiley.com/doi/10.1111/mec.16100)
+`2021` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner BE, Bell G, Yargeau V, Fussmann G, Shapiro BJ. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. _Molecular Ecology_ 30:4771-4788. [doi: 10.1111/mec.16100](https://onlinelibrary.wiley.com/doi/10.1111/mec.16100)
 
 `2021` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. _Ecological Applications_ 31(7):e02423. [doi: 10.1002/eap.2423](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2423)
 
