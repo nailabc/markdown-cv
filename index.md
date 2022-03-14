@@ -72,7 +72,7 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 <!--A list is also available [online](https://orcid.org/0000-0002-7158-933X)-->
 
 #### Peer-reviewed
-`Accepted in 2022` Barbosa da Costa N, Hébert M-P, Fugère V, Terrat Y, Fussmann G, Gonzalez A, Shapiro BJ. A glyphosate-based herbicide cross-selects for antibiotic resistance genes in bacterioplankton communities. mSystems
+`2022` Barbosa da Costa N, Hébert M-P, Fugère V, Terrat Y, Fussmann G, Gonzalez A, Shapiro BJ. A glyphosate-based herbicide cross-selects for antibiotic resistance genes in bacterioplankton communities. mSystems [doi: 10.1128/msystems.01482-21](https://doi.org/10.1128/msystems.01482-21)
 
 `2022` MacKeigan PW, Garner RE, Monchamp ME, Walsh DA, Onana VE, Kraemer SA, Pick FR, Beisner BE, Agbeti MD, Barbosa da Costa N, Shapiro BJ, Gregory-Eaves I. Comparing microscopy and DNA metabarcoding techniques for identifying cyanobacteria assemblages across hundreds of lakes, Harmful Algae. [doi: 10.1016/j.hal.2022.102187](https://www.sciencedirect.com/science/article/pii/S1568988322000166?via%3Dihub)
 
