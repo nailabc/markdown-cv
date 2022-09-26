@@ -44,6 +44,11 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 
 -------
 ## Professional experience
+`2022`
+__Lecturer at University of Montreal (Montreal, Canada)__
+- Course of Protistology (BIO2150, Fall 2022)
+
+
 `2018-2021`
 __Teaching assistant at University of Montreal (Montreal, Canada)__
 - Main assistant of Environmental Microbiology (BIO2405, Winter 2019-2021)
