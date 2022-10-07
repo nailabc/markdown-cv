@@ -29,9 +29,10 @@ __University of Montreal (UdeM), Canada__
 - Ph.D. student in Biological Sciences - GPA: 4.0/4.3
 - Short academic internship at University of Wisconsin at Madison, USA   
 
+<!--
 `Fall 2016 - Summer 2019`
 __Groupe de Recherche Interuniversitaire en Limnologie (GRIL)__
-- NSERC's CREATE trainee in lake and fluvial ecology (ÉcoLac)
+- NSERC's CREATE trainee in lake and fluvial ecology (ÉcoLac) -->
 
 `2013-2015`
 __Federal University of Minas Gerais (UFMG), Brazil__
@@ -77,6 +78,9 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 <!--A list is also available [online](https://orcid.org/0000-0002-7158-933X)-->
 
 #### Peer-reviewed
+`2022` Kraemer SA, Barbosa da Costa N, Olivia A, Huot Y, Walsh DA. A resistome survey across hundreds of freshwater bacterial communities reveals the impacts of veterinary and human antibiotics use. Frontiers in Microbiology 2022 [doi: 10.3389/fmicb.2022.995418](https://doi.org/10.3389/fmicb.2022.995418)
+
+
 `2022` Barbosa da Costa N, Hébert M-P, Fugère V, Terrat Y, Fussmann G, Gonzalez A, Shapiro BJ. A glyphosate-based herbicide cross-selects for antibiotic resistance genes in bacterioplankton communities. _mSystems_ [doi: 10.1128/msystems.01482-21](https://doi.org/10.1128/msystems.01482-21)
 
 `2022` MacKeigan PW, Garner RE, Monchamp ME, Walsh DA, Onana VE, Kraemer SA, Pick FR, Beisner BE, Agbeti MD, Barbosa da Costa N, Shapiro BJ, Gregory-Eaves I. Comparing microscopy and DNA metabarcoding techniques for identifying cyanobacteria assemblages across hundreds of lakes. _Harmful Algae_ [doi: 10.1016/j.hal.2022.102187](https://www.sciencedirect.com/science/article/pii/S1568988322000166?via%3Dihub)
@@ -99,6 +103,9 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 
 -------
 ## Awards and scholarships
+`January 2023-December 2023 (Refused)`
+**PBEEE postdoctoral scholarship** FRQNT (Quebec-Canada) $35,000 CAD
+
 `December 2021`
 **UdeM department awards** Fonds de Bourses Sciences Biologiques (doctorat) $1,000 CAD
 
