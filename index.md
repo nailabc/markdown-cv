@@ -12,7 +12,7 @@ Naíla Barbosa da Costa
 </div>
 
 ## Summary
-I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/). I am interested in microbial and aquatic ecology, evolution and genomics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
+Currently I'm a postdoctoral reseracher at the [INRS-ETE](https://inrs.ca/linrs/centres-de-recherche/centre-eau-terre-environnement/), supervised by Jérôme Comte. I did a PhD in biology at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/) a MSc in ecology at the Ferderal University of Minas Gerais, supervised by Alessandra Giani. I am interested in microbial and aquatic ecology, evolution and genomics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
 
 ### Key skills
 * Bioinformatics for microbiome studies (metagenomics, whole-genome and amplicon sequencing)
@@ -24,7 +24,11 @@ I am a Ph.D. candidate at the University of Montreal, in the [Shapiro lab](http:
 <!--* Fluent in English, French and Portuguese-->
 
 ## Education
-`Sep.2016-now`
+`Feb.2023-now`
+__Institut national de la recherche scientifique - Eau Terre Environnement (INRS-ETE)__
+- Postdoctoral researcher
+
+`Sep.2016-Nov.2022`
 __University of Montreal (UdeM), Canada__
 - Ph.D. student in Biological Sciences - GPA: 4.0/4.3
 - Short academic internship at University of Wisconsin at Madison, USA   
@@ -78,6 +82,8 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 <!--A list is also available [online](https://orcid.org/0000-0002-7158-933X)-->
 
 #### Peer-reviewed
+`2023` Monchamp M-E, Taranu ZE, Rebecca E. Garner, Rehill T, Morissette O, Iversen LL, Fugère V, Littlefair JE, Barbosa da Costa N, Desforges JE, Sánchez Schacht JR, Derry AM, Cooke SJ, Barrett RDH, Walsh DA, Ragoussis J, Albert M, Cristescu ME, Gregory-Eaves I. Prioritizing taxa for genetic reference database development to advance inland water conservation. _Biological Conservation_ [doi.org/10.1016/j.biocon.2023.109963](https://www.sciencedirect.com/science/article/pii/S0006320723000630)
+
 `2022` Kraemer SA, Barbosa da Costa N, Olivia A, Huot Y, Walsh DA. A resistome survey across hundreds of freshwater bacterial communities reveals the impacts of veterinary and human antibiotics use. _Frontiers in Microbiology_ [doi: 10.3389/fmicb.2022.995418](https://doi.org/10.3389/fmicb.2022.995418)
 
 
@@ -105,6 +111,9 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 ## Awards and scholarships
 `January 2023-December 2023 (Refused)`
 **PBEEE postdoctoral scholarship** FRQNT (Quebec-Canada) $35,000 CAD
+
+`December 2022`
+**UdeM department awards** Fonds de Bourses Sciences Biologiques (doctorat) $1,000 CAD
 
 `December 2021`
 **UdeM department awards** Fonds de Bourses Sciences Biologiques (doctorat) $1,000 CAD
@@ -158,6 +167,8 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 -------
 ## Community engagement
 #### Peer-review in scientific publications
+`2023` Reviewer for Aquatic Ecology Sciences Journal
+`2022` Reviewer for Molecular Ecology
 `2021` Reviewer for PLOS ONE
 
 #### Workshop lecturer
