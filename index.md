@@ -163,9 +163,9 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 -------
 ## Community engagement
 #### Peer-review in scientific publications
-`2023` Reviewer for Aquatic Ecology Sciences Journal
-`2022` Reviewer for Molecular Ecology
-`2021` Reviewer for PLOS ONE
+`2023` Reviewer for Aquatic Ecology Sciences Journal (2x)
+`2022` Reviewer for Molecular Ecology (1x)
+`2021` Reviewer for PLOS ONE (2x)
 
 #### Speaker or lecturer
 `2023` **The evolution of sequencing technologies and their application for cyanobacterial blooms surveillance** Invited speaker at the midi-aquatique seminar, Montreal, Canada
@@ -205,7 +205,9 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 - Certified [Carpentry](https://carpentries.org/) instructor since April 2021
 
 `2019-2022` Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
+
 `2019-2022` [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
+
 <!--
 `July 2019` Discussion moderator of the documentary “Harvest of Empire: The Untold Story of Latinos in America”, as part of a movie festival at the International Cooperative House (Madison, USA)
 -->
