@@ -164,7 +164,9 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 ## Community engagement
 #### Peer-review in scientific publications
 `2023` Reviewer for Aquatic Ecology Sciences Journal (2x)
+
 `2022` Reviewer for Molecular Ecology (1x)
+
 `2021` Reviewer for PLOS ONE (2x)
 
 #### Speaker or lecturer
@@ -201,8 +203,7 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 
 
 #### Relevant volunteer experience
-`Currently` 
-- Certified [Carpentry](https://carpentries.org/) instructor since April 2021
+`Currently` Certified [Carpentry](https://carpentries.org/) instructor since April 2021
 
 `2019-2022` Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
 
