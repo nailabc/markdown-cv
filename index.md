@@ -205,6 +205,8 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 #### Relevant volunteer experience
 `Currently` Certified [Carpentry](https://carpentries.org/) instructor since April 2021
 
+`2023` Session organizer in the [37th SIL 2024 conference](https://sil2024.org/)
+
 `2019-2022` Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
 
 `2019-2022` [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
@@ -227,6 +229,7 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 - International Society of Limnology: [SIL](https://limnology.org/)
 - Canadian Society of Microbiologists: [CSM](https://csm-scm.org/)
 - Society of Canadian Aquatic Sciences [SCAS](https://www.scas-scsa.ca/)
+
 <!-- 
 ### Hidden info
 Check this template: https://mszep.github.io/pandoc_resume/
