@@ -17,17 +17,13 @@ Currently I'm a postdoctoral reseracher at the [INRS-ETE](https://inrs.ca/linrs/
 ### Key skills
 * Bioinformatics for microbiome studies (metagenomics, whole-genome and amplicon sequencing)
 *	Data wrangling and data analysis applied to microbial ecology (R, Shell, basic Python and SQL)
-*	Microbiology and molecular biology techniques (bacteria isolation, plasmid cloning, PCR and qPCR, DNA fingerprinting, NGS) 
+*	Microbiology and molecular biology techniques (bacteria isolation, plasmid cloning, PCR and qPCR, DNA fingerprinting, NGS: Illumina and Nanopore) 
 *	General limnologic field techniques, phytoplankton identification
 *	Teaching and science popularization (written and oral communication)
 *	Creative, collaborative, responsible and communicative
 <!--* Fluent in English, French and Portuguese-->
 
 ## Education
-`Feb.2023-now`
-__Institut national de la recherche scientifique - Eau Terre Environnement (INRS-ETE)__
-- Postdoctoral researcher
-
 `Sep.2016-Nov.2022`
 __University of Montreal (UdeM), Canada__
 - Ph.D. student in Biological Sciences - GPA: 4.0/4.3
@@ -49,19 +45,21 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 
 -------
 ## Professional experience
-`2022`
+`Feb.2023-now`
+__Institut national de la recherche scientifique - Eau Terre Environnement (INRS-ETE)__
+- Postdoctoral researcher
+
+`2022-2023`
 __Lecturer at University of Montreal (Montreal, Canada)__
-- Course of Protistology (BIO2150, Fall 2022)
+- Course of Protistology (BIO2150, Fall 2022 and 2023)
 
-
+<!--
 `2018-2021`
 __Teaching assistant at University of Montreal (Montreal, Canada)__
 - Main assistant of Environmental Microbiology (BIO2405, Winter 2019-2021)
 - Grader of Molecular Biology (BIO1101, Summer 2020) and The cell and uniformity of organisms (BIO1954, Winter 2020)
 - General assistant of Microbial Ecology (BIO3721, Winter 2020)
 - General assistant of Protistology (BIO2150, Fall 2018-2020)
-
-<!--
 `Aug.2015-Aug.2016`
 __Teaching (Sete Lagoas, Brazil)__	  
 - English instructor at [UPTIME](https://www.uptime.com.br/cursos-ingles)
@@ -72,20 +70,16 @@ __Teaching (Sete Lagoas, Brazil)__
 __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
 - Trainee in scientific journalism, six published reports
 
-`2013-2014`
-__Federal University of Minas Gerais (Belo Horizonte, Brazil)__
-- Guest lecturer in the courses: Evolution II (BIG033, Oct. 2013) and Methods on Field Ecology (ICB021, Aug.2013 and May 2014)
-
-
 -------
 ## Publications
 <!--A list is also available [online](https://orcid.org/0000-0002-7158-933X)-->
 
 #### Peer-reviewed
+`2023` Potvin M, Gauthier J, Langevin C, Mohit V, Barbosa da Costa N, Deschênes T, Pomerleau M, Kukavica-Ibrulj I, Verreault D, Comte J, Levesque RC. Rapid on-site detection of harmful algal blooms: real-time cyanobacteria identification using Oxford Nanopore sequencing. _Frontiers in Microbiology_ [doi: 10.3389/fmicb.2023.1267652](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1267652/full)
+
 `2023` Monchamp M-E, Taranu ZE, Rebecca E. Garner, Rehill T, Morissette O, Iversen LL, Fugère V, Littlefair JE, Barbosa da Costa N, Desforges JE, Sánchez Schacht JR, Derry AM, Cooke SJ, Barrett RDH, Walsh DA, Ragoussis J, Albert M, Cristescu ME, Gregory-Eaves I. Prioritizing taxa for genetic reference database development to advance inland water conservation. _Biological Conservation_ [doi.org/10.1016/j.biocon.2023.109963](https://www.sciencedirect.com/science/article/pii/S0006320723000630)
 
 `2022` Kraemer SA, Barbosa da Costa N, Olivia A, Huot Y, Walsh DA. A resistome survey across hundreds of freshwater bacterial communities reveals the impacts of veterinary and human antibiotics use. _Frontiers in Microbiology_ [doi: 10.3389/fmicb.2022.995418](https://doi.org/10.3389/fmicb.2022.995418)
-
 
 `2022` Barbosa da Costa N, Hébert M-P, Fugère V, Terrat Y, Fussmann G, Gonzalez A, Shapiro BJ. A glyphosate-based herbicide cross-selects for antibiotic resistance genes in bacterioplankton communities. _mSystems_ [doi: 10.1128/msystems.01482-21](https://doi.org/10.1128/msystems.01482-21)
 
@@ -108,7 +102,9 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 `2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. _Limnology and Oceanography Bulletin_ [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
 -------
-## Awards and scholarships
+## Awards, scholarships and grants
+`Nov23-2024` **Universal research grant** CNPq (Brazil, in collaboration with Prof. Simone Cardoso) $67,000 BRL
+
 `January 2023-December 2023 (Refused)`
 **PBEEE postdoctoral scholarship** FRQNT (Quebec-Canada) $35,000 CAD
 
@@ -171,15 +167,22 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 `2022` Reviewer for Molecular Ecology
 `2021` Reviewer for PLOS ONE
 
-#### Workshop lecturer
-`2021`
-**Automating tasks with the Unix Shell** as a certified [Carpentry](https://carpentries.org/) instructor in the Arizona State University ([online](https://harivyasi.github.io/2021-06-14-asu-online/))
+#### Speaker or lecturer
+`2023` **The evolution of sequencing technologies and their application for cyanobacterial blooms surveillance** Invited speaker at the midi-aquatique seminar, Montreal, Canada
+
+`2021` **Automating tasks with the Unix Shell** as a certified [Carpentry](https://carpentries.org/) instructor in the Arizona State University ([online](https://harivyasi.github.io/2021-06-14-asu-online/))
+
+`2019` **Guest lecturer in the course Environmental microbiology (BIO2405, 1 lecture)** University of Montreal, Montreal, Canada 
+
+`2018` **Climate change and aquatic communities: how far can we go with predictions? What is the relative contribution of ecological vs. evolutionary responses?** Invited speaker at the midi-aquatique seminar, Montreal, Canada
 
 `2017`
-**I’m a microbe! Can’t you see me?** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
+**I’m a microbe! Can’t you see me?** Workshop speaker and organizer. In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
 
 `2016`
-**What’s a green dot in the lake? It’s phytoplankton!** In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
+**What’s a green dot in the lake? It’s phytoplankton!** Workshop speaker and organizer. In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
+
+`2013-2014` **Guest lecturer in the courses: Evolution II (BIG033, 2 lectures) and Methods on Field Ecology (ICB021, 2 lectures)** Federal University of Minas Gerais, Belo Horizonte, Brazil
 
 #### Science outreach
 - Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
@@ -200,9 +203,9 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 #### Relevant volunteer experience
 `Currently` 
 - Certified [Carpentry](https://carpentries.org/) instructor since April 2021
-- Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication since March 2019
-- [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative since March 2019
 
+`2019-2022` Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
+`2019-2022` [CSEE](https://www.csee-scee.ca/) (Canadian Society for Ecology and Evolution) student representative
 <!--
 `July 2019` Discussion moderator of the documentary “Harvest of Empire: The Untold Story of Latinos in America”, as part of a movie festival at the International Cooperative House (Madison, USA)
 -->
@@ -217,6 +220,10 @@ __Federal University of Minas Gerais (Belo Horizonte, Brazil)__
 
 `2010-2012` Member of the student group [“Evolução em Foco”](https://evolucaoemfoco.weebly.com/) (UFMG, Belo Horizonte, Brazil)
 
+#### Current affiliations
+- International Society of Limnology: [SIL](https://limnology.org/)
+- Canadian Society of Microbiologists: [CSM](https://csm-scm.org/)
+- Society of Canadian Aquatic Sciences [SCAS](https://www.scas-scsa.ca/)
 <!-- 
 ### Hidden info
 Check this template: https://mszep.github.io/pandoc_resume/
