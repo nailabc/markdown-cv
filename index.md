@@ -164,8 +164,11 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 ## Community engagement
 #### Peer-review in scientific publications
 `2024` Reviewer for Environmental Science & Technology (1x)
+
 `2023` Reviewer for Aquatic Ecology Sciences Journal (2x)
+
 `2022` Reviewer for Molecular Ecology (1x)
+
 `2021` Reviewer for PLOS ONE (2x)
 
 #### Speaker or lecturer
@@ -195,8 +198,11 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 
 #### Member of organizing commitee
 `2019` [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
+
 `2018-2019` [Microbial Ecology Seminar Series](https://wiki.qcbs.ca/microecoconf), Montreal, Canada
+
 `2018` [BIOME (BIOinformatics for METabarcoding)](https://wiki.qcbs.ca/biome) workshop, Saint-Hippolyte, Canada
+
 `2010 and 2011` Darwin Day III (2011) and Darwin Day II (2010) [Symposia](https://evolucaoemfoco.weebly.com/atividades.html), UFMG, Belo Horizonte, Brazil
 
 
