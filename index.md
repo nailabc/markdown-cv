@@ -7,7 +7,7 @@ Naíla Barbosa da Costa
 ===========
 
 <div id="webaddress">
-<a href="naila.barbosa.da.costa@umontreal.ca">naila.barbosa.da.costa@umontreal.ca</a>
+<a href="naila.costa@inrs.ca">naila.costa@inrs.ca</a>
 | Personal webpage: <a href="https://nailacosta.weebly.com/">nailacosta.weebly.com</a>
 </div>
 
@@ -163,13 +163,14 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 -------
 ## Community engagement
 #### Peer-review in scientific publications
+`2024` Reviewer for Environmental Science & Technology (1x)
 `2023` Reviewer for Aquatic Ecology Sciences Journal (2x)
-
 `2022` Reviewer for Molecular Ecology (1x)
-
 `2021` Reviewer for PLOS ONE (2x)
 
 #### Speaker or lecturer
+`2024` **Guest lecturer in the course Genomics applied to the environment (ETE426, 2 lectures)** INRS-ETE, Québec, Canada 
+
 `2023` **The evolution of sequencing technologies and their application for cyanobacterial blooms surveillance** Invited speaker at the midi-aquatique seminar, Montreal, Canada
 
 `2021` **Automating tasks with the Unix Shell** as a certified [Carpentry](https://carpentries.org/) instructor in the Arizona State University ([online](https://harivyasi.github.io/2021-06-14-asu-online/))
@@ -194,11 +195,8 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 
 #### Member of organizing commitee
 `2019` [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
-
 `2018-2019` [Microbial Ecology Seminar Series](https://wiki.qcbs.ca/microecoconf), Montreal, Canada
-
 `2018` [BIOME (BIOinformatics for METabarcoding)](https://wiki.qcbs.ca/biome) workshop, Saint-Hippolyte, Canada
-
 `2010 and 2011` Darwin Day III (2011) and Darwin Day II (2010) [Symposia](https://evolucaoemfoco.weebly.com/atividades.html), UFMG, Belo Horizonte, Brazil
 
 
