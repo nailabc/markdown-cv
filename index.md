@@ -11,6 +11,7 @@ Naíla Barbosa da Costa
 | Personal webpage: <a href="https://nailacosta.weebly.com/">nailacosta.weebly.com</a>
 </div>
 
+<!--
 ## Summary
 Currently I'm a postdoctoral reseracher at the [INRS-ETE](https://inrs.ca/linrs/centres-de-recherche/centre-eau-terre-environnement/), supervised by Jérôme Comte. I did a PhD in biology at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/) a MSc in ecology at the Ferderal University of Minas Gerais, supervised by Alessandra Giani. I am interested in microbial and aquatic ecology, evolution and genomics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
 
@@ -21,7 +22,7 @@ Currently I'm a postdoctoral reseracher at the [INRS-ETE](https://inrs.ca/linrs/
 *	General limnologic field techniques, phytoplankton identification
 *	Teaching and science popularization (written and oral communication)
 *	Creative, collaborative, responsible and communicative
-<!--* Fluent in English, French and Portuguese-->
+Fluent in English, French and Portuguese -->
 
 ## Education
 `Sep.2016-Nov.2022`
@@ -72,9 +73,11 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 
 -------
 ## Publications
-<!--A list is also available [online](https://orcid.org/0000-0002-7158-933X)-->
+A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 #### Peer-reviewed
+`2024` Vieira da Silva Cruz F, Barbosa da Costa N, Juneau P. Non-pathogenic microbiome associated to aquatic plants and anthropogenic impacts on this interaction. _Science of the Total Environment_ [doi: 10.1016/j.scitotenv.2024.174663] (https://www.sciencedirect.com/science/article/pii/S0048969724048125?dgcid=coauthor) 
+
 `2023` Potvin M, Gauthier J, Langevin C, Mohit V, Barbosa da Costa N, Deschênes T, Pomerleau M, Kukavica-Ibrulj I, Verreault D, Comte J, Levesque RC. Rapid on-site detection of harmful algal blooms: real-time cyanobacteria identification using Oxford Nanopore sequencing. _Frontiers in Microbiology_ [doi: 10.3389/fmicb.2023.1267652](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1267652/full)
 
 `2023` Monchamp M-E, Taranu ZE, Rebecca E. Garner, Rehill T, Morissette O, Iversen LL, Fugère V, Littlefair JE, Barbosa da Costa N, Desforges JE, Sánchez Schacht JR, Derry AM, Cooke SJ, Barrett RDH, Walsh DA, Ragoussis J, Albert M, Cristescu ME, Gregory-Eaves I. Prioritizing taxa for genetic reference database development to advance inland water conservation. _Biological Conservation_ [doi.org/10.1016/j.biocon.2023.109963](https://www.sciencedirect.com/science/article/pii/S0006320723000630)
@@ -171,7 +174,7 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 
 `2021` Reviewer for PLOS ONE (2x)
 
-#### Speaker or lecturer
+#### Invited speaker/lecturer
 `2024` **Guest lecturer in the course Genomics applied to the environment (ETE426, 2 lectures)** INRS-ETE, Québec, Canada 
 
 `2023` **The evolution of sequencing technologies and their application for cyanobacterial blooms surveillance** Invited speaker at the midi-aquatique seminar, Montreal, Canada
@@ -191,6 +194,7 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 `2013-2014` **Guest lecturer in the courses: Evolution II (BIG033, 2 lectures) and Methods on Field Ecology (ICB021, 2 lectures)** Federal University of Minas Gerais, Belo Horizonte, Brazil
 
 #### Science outreach
+- Colouring book for children produced with the artist Analu Faleiros and supported by the GRIL (in French): [link to pdf](https://oraprdnt.uqtr.uquebec.ca/portail/docs/GSC543/O0005950178_2024_Cahier_dessin_planctons.pdf)
 - Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
 <!-- - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta) -->
