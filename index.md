@@ -76,7 +76,7 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 #### Peer-reviewed
-`2024` Vieira da Silva Cruz F, Barbosa da Costa N, Juneau P. Non-pathogenic microbiome associated to aquatic plants and anthropogenic impacts on this interaction. _Science of the Total Environment_ [doi: 10.1016/j.scitotenv.2024.174663] (https://www.sciencedirect.com/science/article/pii/S0048969724048125?dgcid=coauthor) 
+`2024` Vieira da Silva Cruz F, Barbosa da Costa N, Juneau P. Non-pathogenic microbiome associated to aquatic plants and anthropogenic impacts on this interaction. _Science of the Total Environment_ [doi: 10.1016/j.scitotenv.2024.174663](https://www.sciencedirect.com/science/article/pii/S0048969724048125?dgcid=coauthor) 
 
 `2023` Potvin M, Gauthier J, Langevin C, Mohit V, Barbosa da Costa N, Deschênes T, Pomerleau M, Kukavica-Ibrulj I, Verreault D, Comte J, Levesque RC. Rapid on-site detection of harmful algal blooms: real-time cyanobacteria identification using Oxford Nanopore sequencing. _Frontiers in Microbiology_ [doi: 10.3389/fmicb.2023.1267652](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1267652/full)
 
@@ -102,6 +102,8 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 `2021`  Oki Y, Nascimento IM, da Costa NB, Maia RA, Takahashi JA, Ferraz V, Correa Junior A, Wilson GW. Effectiveness of Endophytic Fungi from Baccharis dracunculifolia Against Sucking Insect and Fungal Pathogens. _In: Rosa LH (eds) Neotropical Endophytic Fungi_. Springer, Cham. [https://doi.org/10.1007/978-3-030-53506-3_15](https://doi.org/10.1007/978-3-030-53506-3_15)
 
 #### For science popularization
+`2024` Comte J, Langevin C, Barbosa da Costa N. Surveiller la santé des lacs grâce aux microbes qui y vivent. [_La Conversation_](https://theconversation.com/surveiller-la-sante-des-lacs-grace-aux-microbes-qui-y-vivent-231141?utm_source=whatsapp&utm_medium=bylinewhatsappbutton). Partie de la série "Nos lacs : leurs secrets, leurs défis" 
+
 `2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. _Limnology and Oceanography Bulletin_ [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
 -------
@@ -194,13 +196,15 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 `2013-2014` **Guest lecturer in the courses: Evolution II (BIG033, 2 lectures) and Methods on Field Ecology (ICB021, 2 lectures)** Federal University of Minas Gerais, Belo Horizonte, Brazil
 
 #### Science outreach
-- Colouring book for children produced with the artist Analu Faleiros and supported by the GRIL (in French): [link to pdf](https://oraprdnt.uqtr.uquebec.ca/portail/docs/GSC543/O0005950178_2024_Cahier_dessin_planctons.pdf)
+- Colouring book for children produced with Analu Faleiros and Léana Dupuis, supported by the GRIL (in French): [link to pdf](https://oraprdnt.uqtr.uquebec.ca/portail/docs/GSC543/O0005950178_2024_Cahier_dessin_planctons.pdf)
 - Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
 <!-- - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta) -->
 
 
 #### Member of organizing commitee
+`2024` Session organizer in the [37th SIL 2024 conference](https://sil2024.org/)
+
 `2019` [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
 
 `2018-2019` [Microbial Ecology Seminar Series](https://wiki.qcbs.ca/microecoconf), Montreal, Canada
@@ -213,7 +217,9 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 #### Relevant volunteer experience
 `Currently` Certified [Carpentry](https://carpentries.org/) instructor since April 2021
 
-`2023` Session organizer in the [37th SIL 2024 conference](https://sil2024.org/)
+`2023` Mentor of the program [A thousand future scientists](https://www.linkedin.com/company/1000-futuros-cientistas/posts/?feedView=all) with high-school students
+
+`2023` Mentor of the program [ELA-STEM](https://institutoredi.org/ela-stem) from [Redi](https://institutoredi.org/) Institute
 
 `2019-2022` Editor of [Le beagle](https://lebeagle.qcbs.ca/): QCBS bilingual (EN/FR) blog for science communication
 
