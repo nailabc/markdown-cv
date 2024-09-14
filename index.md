@@ -176,6 +176,15 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 `2021` Reviewer for PLOS ONE (2x)
 
+#### Co-supervision of undergraduate students
+`Summer 2024` Amélie Rivière (Collège de la Cité): Fast detection of cyanobacteria in freshwater
+
+`Fall 2023 and winter 2024` Zakary Sow (Université Laval): Culture and cryopreservation of cyanobacteria, microscopy documentation and sequencing for their integration in a culture collection
+
+`Summer 2023` Sarika Beauchemin (Université de Montréal): Cryostocks of cyanobacteria: evaluating long-temr stability of strains to different cryoprotective agents 
+
+`Summer-fall 2021 and winter 2022` Delaney Barth (McGill University): Metagennomic analysis of antimicrobial resistance genes in microbial communities exposed to a glyphosate-based herbicide
+
 #### Invited speaker/lecturer
 `2024` **Guest lecturer in the course Genomics applied to the environment (ETE426, 2 lectures)** INRS-ETE, Québec, Canada 
 
