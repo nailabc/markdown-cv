@@ -7,14 +7,15 @@ Naíla Barbosa da Costa
 ===========
 
 <div id="webaddress">
-<a href="naila.costa@inrs.ca">naila.costa@inrs.ca</a>
+<a href="naila.barbosadacosta@teluq.ca">naila.barbosadacosta@teluq.ca</a>
 | Personal webpage: <a href="https://nailacosta.weebly.com/">nailacosta.weebly.com</a>
 </div>
 
-<!--
-## Summary
-Currently I'm a postdoctoral reseracher at the [INRS-ETE](https://inrs.ca/linrs/centres-de-recherche/centre-eau-terre-environnement/), supervised by Jérôme Comte. I did a PhD in biology at the University of Montreal, in the [Shapiro lab](http://www.shapirolab.ca/) a MSc in ecology at the Ferderal University of Minas Gerais, supervised by Alessandra Giani. I am interested in microbial and aquatic ecology, evolution and genomics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
 
+## Summary
+Currently I'm a substitute professor at Université TÉLUQ in the [department of science and technology](https://www.teluq.ca/site/etudes/departement/st.php). I am interested in microbial and aquatic ecology, evolution and genomics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
+
+<!--
 ### Key skills
 * Bioinformatics for microbiome studies (metagenomics, whole-genome and amplicon sequencing)
 *	Data wrangling and data analysis applied to microbial ecology (R, Shell, basic Python and SQL)
@@ -46,7 +47,11 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 
 -------
 ## Professional experience
-`Feb.2023-now`
+`2025-now`
+__Université TÉLUQ - Département Science et Technologie (Québec, Canada)__
+- Substitute professor (maternity leave between july 2025 and january 2026)
+
+`2023-2025`
 __Institut national de la recherche scientifique - Eau Terre Environnement (INRS-ETE)__
 - Postdoctoral researcher
 
@@ -67,7 +72,7 @@ __Teaching (Sete Lagoas, Brazil)__
 - Tutor of biology, chemistry, physics and mathematics
 -->
 
-`July-Aug.2015`
+`2015`
 __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
 - Trainee in scientific journalism, six published reports
 
@@ -76,6 +81,11 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 #### Peer-reviewed
+`2025` : Xu CC, Fugère V, Barbosa da Costa N, Beisner BE, Bell GA., Cristescu ME, Fussmann GF, Gonzalez A, Shapiro BJ and Barrett RD. \textit{Pre-exposure to stress reduces loss of community and genetic diversity following severe environmental disturbance}. _Current biology_ [https://doi.org/10.1016/j.cub.2025.01.037](https://doi.org/10.1016/j.cub.2025.01.037)
+
+`2025`  Loria A, Tournayre O, Hébert M-P, Barbosa da Costa N, Fugère V, Barrett RDH, Beisner BE, Bell G, Shapiro BJ, Gonzalez A, Cristescu ME. \textit{Estimating rapid diversity changes during acute herbicide contamination using environmental DNA}. _Environmental DNA_ [https://doi.org/10.1002/edn3.70029](https://doi.org/10.1002/edn3.70029)
+
+
 `2024` Vieira da Silva Cruz F, Barbosa da Costa N, Juneau P. Non-pathogenic microbiome associated to aquatic plants and anthropogenic impacts on this interaction. _Science of the Total Environment_ [doi: 10.1016/j.scitotenv.2024.174663](https://www.sciencedirect.com/science/article/pii/S0048969724048125?dgcid=coauthor) 
 
 `2023` Potvin M, Gauthier J, Langevin C, Mohit V, Barbosa da Costa N, Deschênes T, Pomerleau M, Kukavica-Ibrulj I, Verreault D, Comte J, Levesque RC. Rapid on-site detection of harmful algal blooms: real-time cyanobacteria identification using Oxford Nanopore sequencing. _Frontiers in Microbiology_ [doi: 10.3389/fmicb.2023.1267652](https://www.frontiersin.org/articles/10.3389/fmicb.2023.1267652/full)
@@ -106,6 +116,7 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 `2018` Barbosa da Costa N. Scientists Investigate Eutrophication Mystery and find Oligotrophication Instead. _Limnology and Oceanography Bulletin_ [doi: 10.1002/lob.10266](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lob.10266)
 
+<!--
 -------
 ## Awards, scholarships and grants
 `Nov23-2024` **Universal research grant** CNPq (Brazil, in collaboration with Prof. Simone Cardoso) $67,000 BRL
@@ -184,6 +195,7 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 `Summer 2023` Sarika Beauchemin (Université de Montréal): Cryostocks of cyanobacteria: evaluating long-temr stability of strains to different cryoprotective agents 
 
 `Summer-fall 2021 and winter 2022` Delaney Barth (McGill University): Metagennomic analysis of antimicrobial resistance genes in microbial communities exposed to a glyphosate-based herbicide
+-->
 
 #### Invited speaker/lecturer
 `2024` **Guest lecturer in the course Genomics applied to the environment (ETE426, 2 lectures)** INRS-ETE, Québec, Canada 
@@ -212,7 +224,9 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 
 #### Member of organizing commitee
-`2024` Session organizer in the [37th SIL 2024 conference](https://sil2024.org/)
+`2026` Session organizer in the [ASLO-SIL joint meeting](https://www.aslo.org/aslo-sil-2026/)
+
+`2024` Session organizer in the [37th SIL 2024 conference](https://limnology.org/congress/37th-2024-congress-of-the-international-society-of-limnology/)
 
 `2019` [EDI workshop](https://qcbs.ca/edi-workshop/) at the QCBS symposium, Montreal, Canada
 
@@ -248,12 +262,14 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 `2010-2012` Member of the student group [“Evolução em Foco”](https://evolucaoemfoco.weebly.com/) (UFMG, Belo Horizonte, Brazil)
 
+
+<!-- 
 #### Current affiliations
 - International Society of Limnology: [SIL](https://limnology.org/)
 - Canadian Society of Microbiologists: [CSM](https://csm-scm.org/)
 - Society of Canadian Aquatic Sciences [SCAS](https://www.scas-scsa.ca/)
 
-<!-- 
+
 ### Hidden info
 Check this template: https://mszep.github.io/pandoc_resume/
 Check output in: https://nailabc.github.io/markdown-cv/
