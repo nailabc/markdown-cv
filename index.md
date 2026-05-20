@@ -242,9 +242,9 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 `2018-2019` [Microbial Ecology Seminar Series](https://wiki.qcbs.ca/microecoconf), Montreal, Canada
 
 `2018` [BIOME (BIOinformatics for METabarcoding)](https://wiki.qcbs.ca/biome) workshop, Saint-Hippolyte, Canada
-
+<!--
 `2010 and 2011` Darwin Day III (2011) and Darwin Day II (2010) [Symposia](https://evolucaoemfoco.weebly.com/atividades.html), UFMG, Belo Horizonte, Brazil
-
+-->
 
 #### Relevant volunteer experience
 <!--`Currently` Certified [Carpentry](https://carpentries.org/) instructor since April 2021
@@ -266,12 +266,12 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 
 <!--`Fall 2017 & Fall 2018` Volunteer at [Passarelle](http://www.ahc.umontreal.ca/ActivitesJumelage/passerelle.htm) (tutoring between new and current students at UdeM)
 
-`2017` Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada-->
+`2017` Volunteer at the CCFFR/CCRP & CSL Meeting, Montreal, Canada
 
 `July 2015` Assistant at [“UFMG & Schools – Educating to science”](https://www2.icb.ufmg.br/ufmgescolas/) (UFMG, Belo Horizonte, Brazil)
 
 `2010-2012` Member of the student group [“Evolução em Foco”](https://evolucaoemfoco.weebly.com/) (UFMG, Belo Horizonte, Brazil)
-
+-->
 
 <!-- 
 #### Current affiliations
