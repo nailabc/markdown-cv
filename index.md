@@ -78,10 +78,11 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 - Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
 
 -------
-## Publications in the last 5 years
+## Publications
+
+#### Peer-reviewed publications in the last 5 years
 A full list is available [online](https://orcid.org/0000-0002-7158-933X)
 
-#### Peer-reviewed
 `2025` : Xu CC, Fugère V, Barbosa da Costa N, Beisner BE, Bell GA., Cristescu ME, Fussmann GF, Gonzalez A, Shapiro BJ and Barrett RD. Pre-exposure to stress reduces loss of community and genetic diversity following severe environmental disturbance. _Current biology_ [https://doi.org/10.1016/j.cub.2025.01.037](https://doi.org/10.1016/j.cub.2025.01.037)
 
 `2025`  Loria A, Tournayre O, Hébert M-P, Barbosa da Costa N, Fugère V, Barrett RDH, Beisner BE, Bell G, Shapiro BJ, Gonzalez A, Cristescu ME. Estimating rapid diversity changes during acute herbicide contamination using environmental DNA. _Environmental DNA_ [https://doi.org/10.1002/edn3.70029](https://doi.org/10.1002/edn3.70029)
@@ -99,11 +100,11 @@ A full list is available [online](https://orcid.org/0000-0002-7158-933X)
 
 `2022` MacKeigan PW, Garner RE, Monchamp ME, Walsh DA, Onana VE, Kraemer SA, Pick FR, Beisner BE, Agbeti MD, Barbosa da Costa N, Shapiro BJ, Gregory-Eaves I. Comparing microscopy and DNA metabarcoding techniques for identifying cyanobacteria assemblages across hundreds of lakes. _Harmful Algae_ [doi: 10.1016/j.hal.2022.102187](https://www.sciencedirect.com/science/article/pii/S1568988322000166?via%3Dihub)
 
-<!--
 `2021` Barbosa da Costa N, Fugère V, Hébert M-P, Xu CCY, Barrett R, Beisner BE, Bell G, Yargeau V, Fussmann G, Shapiro BJ. Resistance, resilience, and functional redundancy of freshwater microbial communities facing multiple agricultural stressors in a mesocosm experiment. _Molecular Ecology_ 30:4771-4788. [doi: 10.1111/mec.16100](https://onlinelibrary.wiley.com/doi/10.1111/mec.16100)
 
 `2021` Hébert M-P, Fugère V, Beisner B, Barbosa da Costa N, Barrett R, Bell G, Shapiro BJ, Yargeau V, Gonzalez A, Fussmann G. Widespread agrochemicals differentially affect zooplankton biomass and community structure. _Ecological Applications_ 31(7):e02423. [doi: 10.1002/eap.2423](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2423)
 
+<!--
 `2020` Kraemer SA, Barbosa da Costa N, Shapiro BJ, Fradette M, Huot Y, Walsh D. A large-scale assessment of lakes reveals a pervasive signal of land use on bacterial communities. _The ISME Journal_ 14:3011-3023. [doi: 10.1038/s41396-020-0733-0](https://www.nature.com/articles/s41396-020-0733-0)
 
 `2020` Fugère V, Hébert M, Barbosa da Costa N, Xu CCY, Barrett RDH, Beisner BE, Bell G, Fussmann G, Shapiro BJ, Yargeau V, Gonzalez A. Community rescue in experimental phytoplankton communities facing severe herbicide pollution. _Nat Ecol Evol_ 4:578-588. [doi: 10.1038/s41559-020-1134-5](https://www.nature.com/articles/s41559-020-1134-5)
