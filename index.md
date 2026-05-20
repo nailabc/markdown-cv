@@ -25,26 +25,6 @@ Currently I'm a substitute professor at Université TÉLUQ in the [department of
 *	Creative, collaborative, responsible and communicative
 Fluent in English, French and Portuguese -->
 
-## Education
-`Sep.2016-Nov.2022`
-__University of Montreal (UdeM), Canada__
-- Ph.D. student in Biological Sciences - GPA: 4.0/4.3
-- Short academic internship at University of Wisconsin at Madison, USA   
-
-<!--
-`Fall 2016 - Summer 2019`
-__Groupe de Recherche Interuniversitaire en Limnologie (GRIL)__
-- NSERC's CREATE trainee in lake and fluvial ecology (ÉcoLac) -->
-
-`2013-2015`
-__Federal University of Minas Gerais (UFMG), Brazil__
-- Master of Science in Ecology, Conservation and Wildlife Management - GPA: 94.67/100
-
-`2008-2013`
-__Federal University of Minas Gerais (UFMG), Brazil__
-- Bachelor in Biological Sciences - GPA: 4.78/5.00
-- Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
-
 -------
 ## Professional experience
 `2025-now`
@@ -75,6 +55,27 @@ __Teaching (Sete Lagoas, Brazil)__
 `2015`
 __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
 - Trainee in scientific journalism, six published reports
+
+
+## Education
+`Sep.2016-Nov.2022`
+__University of Montreal (UdeM), Canada__
+- Ph.D. student in Biological Sciences - GPA: 4.0/4.3
+- Short academic internship at University of Wisconsin at Madison, USA   
+
+<!--
+`Fall 2016 - Summer 2019`
+__Groupe de Recherche Interuniversitaire en Limnologie (GRIL)__
+- NSERC's CREATE trainee in lake and fluvial ecology (ÉcoLac) -->
+
+`2013-2015`
+__Federal University of Minas Gerais (UFMG), Brazil__
+- Master of Science in Ecology, Conservation and Wildlife Management - GPA: 94.67/100
+
+`2008-2013`
+__Federal University of Minas Gerais (UFMG), Brazil__
+- Bachelor in Biological Sciences - GPA: 4.78/5.00
+- Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
 
 -------
 ## Publications
@@ -244,7 +245,8 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 
 #### Relevant volunteer experience
-`Currently` Certified [Carpentry](https://carpentries.org/) instructor since April 2021
+<!--`Currently` Certified [Carpentry](https://carpentries.org/) instructor since April 2021
+-->
 
 `2023` Mentor of the program [A thousand future scientists](https://www.linkedin.com/company/1000-futuros-cientistas/posts/?feedView=all) with high-school students
 
