@@ -180,10 +180,15 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 ## Community engagement
 #### Peer-review in scientific publications and evaluation of grant applications
 `2026`  Programme de bourses de recherche de 1er cycle (BRPC) of Université TÉLUQ (5x)
+
 `2026`  External evaluator of the NSERC Discovery Grant (1x)
+
 `2024` Reviewer for Environmental Science & Technology (1x)
+
 `2023` Reviewer for Aquatic Ecology Sciences Journal (2x)
+
 `2022` Reviewer for Molecular Ecology (1x)
+
 `2021` Reviewer for PLOS ONE (2x)
 
 <!--
@@ -217,6 +222,7 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 `2013-2014` **Guest lecturer in the courses: Evolution II (BIG033, 2 lectures) and Methods on Field Ecology (ICB021, 2 lectures)** Federal University of Minas Gerais, Belo Horizonte, Brazil
 
 #### Science outreach
+- Participant of the _5th edition of Researchers’ Night_, organized by le Space pour la vie (Montreal, 2024)
 - Colouring book for children produced with Analu Faleiros and Léana Dupuis, supported by the GRIL (in French): [link to pdf](https://oraprdnt.uqtr.uquebec.ca/portail/docs/GSC543/O0005950178_2024_Cahier_dessin_planctons.pdf)
 - Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
