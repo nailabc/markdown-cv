@@ -81,9 +81,9 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 #### Peer-reviewed
-`2025` : Xu CC, Fugère V, Barbosa da Costa N, Beisner BE, Bell GA., Cristescu ME, Fussmann GF, Gonzalez A, Shapiro BJ and Barrett RD. \textit{Pre-exposure to stress reduces loss of community and genetic diversity following severe environmental disturbance}. _Current biology_ [https://doi.org/10.1016/j.cub.2025.01.037](https://doi.org/10.1016/j.cub.2025.01.037)
+`2025` : Xu CC, Fugère V, Barbosa da Costa N, Beisner BE, Bell GA., Cristescu ME, Fussmann GF, Gonzalez A, Shapiro BJ and Barrett RD. Pre-exposure to stress reduces loss of community and genetic diversity following severe environmental disturbance. _Current biology_ [https://doi.org/10.1016/j.cub.2025.01.037](https://doi.org/10.1016/j.cub.2025.01.037)
 
-`2025`  Loria A, Tournayre O, Hébert M-P, Barbosa da Costa N, Fugère V, Barrett RDH, Beisner BE, Bell G, Shapiro BJ, Gonzalez A, Cristescu ME. \textit{Estimating rapid diversity changes during acute herbicide contamination using environmental DNA}. _Environmental DNA_ [https://doi.org/10.1002/edn3.70029](https://doi.org/10.1002/edn3.70029)
+`2025`  Loria A, Tournayre O, Hébert M-P, Barbosa da Costa N, Fugère V, Barrett RDH, Beisner BE, Bell G, Shapiro BJ, Gonzalez A, Cristescu ME. Estimating rapid diversity changes during acute herbicide contamination using environmental DNA. _Environmental DNA_ [https://doi.org/10.1002/edn3.70029](https://doi.org/10.1002/edn3.70029)
 
 
 `2024` Vieira da Silva Cruz F, Barbosa da Costa N, Juneau P. Non-pathogenic microbiome associated to aquatic plants and anthropogenic impacts on this interaction. _Science of the Total Environment_ [doi: 10.1016/j.scitotenv.2024.174663](https://www.sciencedirect.com/science/article/pii/S0048969724048125?dgcid=coauthor) 
@@ -174,19 +174,19 @@ A list is also available [online](https://orcid.org/0000-0002-7158-933X)
 
 `2005`
 **Excellence in High School studies** 1st place Sophomore year CNEC-CEI (Sete Lagoas, Brazil) $150 BRL
-
+-->
 
 -------
 ## Community engagement
-#### Peer-review in scientific publications
+#### Peer-review in scientific publications and evaluation of grant applications
+`2026`  Programme de bourses de recherche de 1er cycle (BRPC) of Université TÉLUQ (5x)
+`2026`  External evaluator of the NSERC Discovery Grant (1x)
 `2024` Reviewer for Environmental Science & Technology (1x)
-
 `2023` Reviewer for Aquatic Ecology Sciences Journal (2x)
-
 `2022` Reviewer for Molecular Ecology (1x)
-
 `2021` Reviewer for PLOS ONE (2x)
 
+<!--
 #### Co-supervision of undergraduate students
 `Summer 2024` Amélie Rivière (Collège de la Cité): Fast detection of cyanobacteria in freshwater
 
