@@ -194,8 +194,11 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 
 `2021` Reviewer for PLOS ONE (2x)
 
-<!--
-#### Co-supervision of undergraduate students
+#### Students cosupervision
+`2026` Elouan Lainé (Master - École Supérieure de Biotechnologie de Strasbourg) - Phenotypical study of cyanobacterial strains isolated from Quebec
+
+`2025` Gabriel Oliveira (undergraduate honour thesis - Federal Universiry of Juiz de Fora) - Genomic study of strains of _Raphidiopsis raciborskii_ with focus in the glyphosate resistance
+
 `Summer 2024` Amélie Rivière (Collège de la Cité): Fast detection of cyanobacteria in freshwater
 
 `Fall 2023 and winter 2024` Zakary Sow (Université Laval): Culture and cryopreservation of cyanobacteria, microscopy documentation and sequencing for their integration in a culture collection
@@ -203,7 +206,6 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 `Summer 2023` Sarika Beauchemin (Université de Montréal): Cryostocks of cyanobacteria: evaluating long-temr stability of strains to different cryoprotective agents 
 
 `Summer-fall 2021 and winter 2022` Delaney Barth (McGill University): Metagennomic analysis of antimicrobial resistance genes in microbial communities exposed to a glyphosate-based herbicide
--->
 
 #### Invited speaker/lecturer
 `2024` **Guest lecturer in the course Genomics applied to the environment (ETE426, 2 lectures)** INRS-ETE, Québec, Canada 
@@ -227,7 +229,6 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 #### Science outreach
 - Participant of the _5th edition of Researchers’ Night_, organized by le Space pour la vie (Montreal, 2024)
 - Colouring book for children produced with Analu Faleiros and Léana Dupuis, supported by the GRIL (in French): [link to pdf](https://oraprdnt.uqtr.uquebec.ca/portail/docs/GSC543/O0005950178_2024_Cahier_dessin_planctons.pdf)
-- Portfolio with articles for science popularization (most in Portuguese): [https://nailabcosta.contently.com](https://nailabcosta.contently.com)
 - YouTube video: [Rotina de uma Reação de PCR (audio in Portuguese)](https://www.youtube.com/watch?v=rn40R5w5Fkw)
 <!-- - Blog: [https://medium.com/@nbcosta](https://medium.com/@nbcosta) -->
 
