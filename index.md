@@ -79,7 +79,7 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 -------
 ## Publications
 
-#### Peer-reviewed publications in the last 5 years (a full list is available [online](https://orcid.org/0000-0002-7158-933X))
+**Peer-reviewed publications in the last 5 years** (a full list is available [online](https://orcid.org/0000-0002-7158-933X))
 
 `2025` : Xu CC, Fugère V, Barbosa da Costa N, Beisner BE, Bell GA., Cristescu ME, Fussmann GF, Gonzalez A, Shapiro BJ and Barrett RD. Pre-exposure to stress reduces loss of community and genetic diversity following severe environmental disturbance. _Current biology_ [https://doi.org/10.1016/j.cub.2025.01.037](https://doi.org/10.1016/j.cub.2025.01.037)
 
