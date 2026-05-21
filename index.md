@@ -27,11 +27,11 @@ Fluent in English, French and Portuguese -->
 
 -------
 ## Professional experience
-__Université TÉLUQ - Département Science et Technologie (Québec, Canada)__
+`2025-now` __Université TÉLUQ - Département Science et Technologie (Québec, Canada)__
 - Substitute professor (maternity leave between july 2025 and january 2026)
 
-__Institut national de la recherche scientifique - Eau Terre Environnement (INRS-ETE)__
-- Postdoctoral researcher (2023-2025)
+`2023-2025` __Institut national de la recherche scientifique - Eau Terre Environnement (INRS-ETE)__
+- Postdoctoral researcher
 
 __Lecturer at University of Montreal (Montreal, Canada)__
 - Course of Protistology (BIO2150, Fall 2022 and 2023)
@@ -54,7 +54,7 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 
 
 ## Education
-`Sep.2016-Nov.2022`
+`2016-2022`
 __University of Montreal (UdeM), Canada__
 - Ph.D. student in Biological Sciences
 - Short academic internship at University of Wisconsin at Madison, USA   
