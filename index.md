@@ -13,7 +13,7 @@ Naíla Barbosa da Costa
 
 
 ## Summary
-Currently I'm a substitute professor at Université TÉLUQ in the [department of science and technology](https://www.teluq.ca/site/etudes/departement/st.php). I am interested in microbial and aquatic ecology, evolution and genomics. I am Fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
+Currently I'm a substitute professor at Université TÉLUQ in the [department of science and technology](https://www.teluq.ca/site/etudes/departement/st.php). I am interested in microbial and aquatic ecology, evolution and genomics. I am fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and previuos research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
 
 <!--
 ### Key skills
@@ -199,32 +199,30 @@ __Federal University of Minas Gerais (UFMG), Brazil__
 
 `2025` Gabriel Oliveira (undergraduate honour thesis - Federal Universiry of Juiz de Fora) - Genomic study of strains of _Raphidiopsis raciborskii_ with focus in the glyphosate resistance
 
-`Summer 2024` Amélie Rivière (Collège de la Cité): Fast detection of cyanobacteria in freshwater
+`2024` Amélie Rivière (Collège de la Cité): Fast detection of cyanobacteria in freshwater
 
-`Fall 2023 and winter 2024` Zakary Sow (Université Laval): Culture and cryopreservation of cyanobacteria, microscopy documentation and sequencing for their integration in a culture collection
+`2023-2024` Zakary Sow (Université Laval): Culture and cryopreservation of cyanobacteria, microscopy documentation and sequencing for their integration in a culture collection
 
-`Summer 2023` Sarika Beauchemin (Université de Montréal): Cryostocks of cyanobacteria: evaluating long-temr stability of strains to different cryoprotective agents 
+`2023` Sarika Beauchemin (Université de Montréal): Cryostocks of cyanobacteria: evaluating long-temr stability of strains to different cryoprotective agents 
 
-`Summer-fall 2021 and winter 2022` Delaney Barth (McGill University): Metagennomic analysis of antimicrobial resistance genes in microbial communities exposed to a glyphosate-based herbicide
+`2021-2022` Delaney Barth (McGill University): Metagennomic analysis of antimicrobial resistance genes in microbial communities exposed to a glyphosate-based herbicide
 
 #### Invited speaker/lecturer
-`2024` **Guest lecturer in the course Genomics applied to the environment (ETE426, 2 lectures)** INRS-ETE, Québec, Canada 
+`2024` Guest lecturer in the course **Genomics applied to the environment (ETE426, 2 lectures)** INRS-ETE, Québec, Canada 
 
 `2023` **The evolution of sequencing technologies and their application for cyanobacterial blooms surveillance** Invited speaker at the midi-aquatique seminar, Montreal, Canada
 
 `2021` **Automating tasks with the Unix Shell** as a certified [Carpentry](https://carpentries.org/) instructor in the Arizona State University ([online](https://harivyasi.github.io/2021-06-14-asu-online/))
 
-`2019` **Guest lecturer in the course Environmental microbiology (BIO2405, 1 lecture)** University of Montreal, Montreal, Canada 
+`2019` Guest lecturer in the course **Environmental microbiology (BIO2405, 1 lecture)** University of Montreal, Montreal, Canada 
 
 `2018` **Climate change and aquatic communities: how far can we go with predictions? What is the relative contribution of ecological vs. evolutionary responses?** Invited speaker at the midi-aquatique seminar, Montreal, Canada
 
-`2017`
-**I’m a microbe! Can’t you see me?** Workshop speaker and organizer. In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
+`2017` **I’m a microbe! Can’t you see me?** Workshop speaker and organizer. In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J., Tran P. 
 
-`2016`
-**What’s a green dot in the lake? It’s phytoplankton!** Workshop speaker and organizer. In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
+`2016` **What’s a green dot in the lake? It’s phytoplankton!** Workshop speaker and organizer. In: ÉcoLac-GRIL workshops, Station de Biologie des Laurentides, Saint-Hippolyte, Canada. Co-organizers: Costa N.B., Reis P.C.J.
 
-`2013-2014` **Guest lecturer in the courses: Evolution II (BIG033, 2 lectures) and Methods on Field Ecology (ICB021, 2 lectures)** Federal University of Minas Gerais, Belo Horizonte, Brazil
+`2013-2014` Guest lecturer in the courses: **Evolution II (BIG033, 2 lectures) and Methods on Field Ecology (ICB021, 2 lectures)** Federal University of Minas Gerais, Belo Horizonte, Brazil
 
 #### Science outreach
 - Participant of the _5th edition of Researchers’ Night_, organized by le Space pour la vie (Montreal, 2024)
