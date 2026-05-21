@@ -13,7 +13,7 @@ Naíla Barbosa da Costa
 
 
 ## Summary
-Currently I'm a substitute professor at Université TÉLUQ in the [department of science and technology](https://www.teluq.ca/site/etudes/departement/st.php). I am interested in microbial and aquatic ecology, evolution and genomics. I am fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and previuos research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
+Currently I'm a substitute professor at Université TÉLUQ in the [department of science and technology](https://www.teluq.ca/site/etudes/departement/st.php). I am interested in microbial and aquatic ecology, evolution and genomics. I am fluent in English, French and Portuguese and I am engaged in science popularization and education in these three languages. I tell a bit of my story and previous research in this [video](https://www.youtube.com/watch?v=3dS7IfyQqfg&feature=youtu.be).
 
 <!--
 ### Key skills
