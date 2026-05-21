@@ -33,8 +33,8 @@ Fluent in English, French and Portuguese -->
 `2023-2025` __Institut national de la recherche scientifique - Eau Terre Environnement (INRS-ETE)__
 - Postdoctoral researcher
 
-__Lecturer at University of Montreal (Montreal, Canada)__
-- Course of Protistology (BIO2150, Fall 2022 and 2023)
+`2022-2023` __Lecturer at University of Montreal (Montreal, Canada)__
+- Course of Protistology (BIO2150)
 
 <!--
 `2018-2021`
@@ -49,8 +49,8 @@ __Teaching (Sete Lagoas, Brazil)__
 - Tutor of biology, chemistry, physics and mathematics
 -->
 
-__“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
-- Trainee in scientific journalism (2015), six published reports
+`2015` __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__			     	                 
+- Trainee in scientific journalism, six published reports
 
 
 ## Education
