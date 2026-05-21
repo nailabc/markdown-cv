@@ -60,22 +60,21 @@ __“Folha de São Paulo” Newspaper (São Paulo, Brazil)__
 ## Education
 `Sep.2016-Nov.2022`
 __University of Montreal (UdeM), Canada__
-- Ph.D. student in Biological Sciences - GPA: 4.0/4.3
+- Ph.D. student in Biological Sciences
 - Short academic internship at University of Wisconsin at Madison, USA   
 
-<!--
 `Fall 2016 - Summer 2019`
 __Groupe de Recherche Interuniversitaire en Limnologie (GRIL)__
-- NSERC's CREATE trainee in lake and fluvial ecology (ÉcoLac) -->
+- NSERC's CREATE trainee in lake and fluvial ecology (ÉcoLac)
 
 `2013-2015`
 __Federal University of Minas Gerais (UFMG), Brazil__
-- Master of Science in Ecology, Conservation and Wildlife Management - GPA: 94.67/100
+- Master of Science in Ecology, Conservation and Wildlife Management
 
 `2008-2013`
 __Federal University of Minas Gerais (UFMG), Brazil__
-- Bachelor in Biological Sciences - GPA: 4.78/5.00
-- Exchange student at University of Wisconsin at Madison, USA - GPA: 3.50/4.00 (Spring 2012)
+- Bachelor in Biological Sciences
+- Exchange student at University of Wisconsin at Madison, USA
 
 -------
 ## Publications
